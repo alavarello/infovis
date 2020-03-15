@@ -1,2 +1,1 @@
-# infovis
-Visualización de la información
+# Visualización de la información
