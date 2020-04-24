@@ -1,0 +1,4898 @@
+[
+    {
+        "ResortDayStatId": 78831457,
+        "ResortName": "Vail",
+        "Day": "12/17/2019",
+        "VerticalFeet": 2186,
+        "Runs": 9,
+        "LiftRides": [
+            {
+                "EventId": 716917482,
+                "LocationId": 0,
+                "Lift": "Wildwood Express #3",
+                "Time": "9:21 AM"
+            },
+            {
+                "EventId": 716927651,
+                "LocationId": 0,
+                "Lift": "Mountain Top Express #4",
+                "Time": "9:44 AM"
+            },
+            {
+                "EventId": 716953738,
+                "LocationId": 0,
+                "Lift": "Sourdough Express #14",
+                "Time": "10:21 AM"
+            },
+            {
+                "EventId": 716990962,
+                "LocationId": 0,
+                "Lift": "Sourdough Express #14",
+                "Time": "11:01 AM"
+            },
+            {
+                "EventId": 717005979,
+                "LocationId": 0,
+                "Lift": "Sourdough Express #14",
+                "Time": "11:16 AM"
+            },
+            {
+                "EventId": 717023614,
+                "LocationId": 0,
+                "Lift": "Sourdough Express #14",
+                "Time": "11:33 AM"
+            },
+            {
+                "EventId": 717182625,
+                "LocationId": 0,
+                "Lift": "Wildwood Express #3",
+                "Time": "2:10 PM"
+            },
+            {
+                "EventId": 717195649,
+                "LocationId": 0,
+                "Lift": "Game Creek Express #7",
+                "Time": "2:25 PM"
+            },
+            {
+                "EventId": 717209540,
+                "LocationId": 0,
+                "Lift": "Game Creek Express #7",
+                "Time": "2:41 PM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 78916054,
+        "ResortName": "Vail",
+        "Day": "12/18/2019",
+        "VerticalFeet": 1024,
+        "Runs": 7,
+        "LiftRides": [
+            {
+                "EventId": 717524017,
+                "LocationId": 0,
+                "Lift": "Mountain Top Express #4",
+                "Time": "12:49 PM"
+            },
+            {
+                "EventId": 717584033,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "1:45 PM"
+            },
+            {
+                "EventId": 717599779,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "2:01 PM"
+            },
+            {
+                "EventId": 717611679,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "2:13 PM"
+            },
+            {
+                "EventId": 717630319,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "2:32 PM"
+            },
+            {
+                "EventId": 717638662,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "2:42 PM"
+            },
+            {
+                "EventId": 717665718,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "3:18 PM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 78956306,
+        "ResortName": "Vail",
+        "Day": "12/19/2019",
+        "VerticalFeet": 2049,
+        "Runs": 6,
+        "LiftRides": [
+            {
+                "EventId": 717819698,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "10:54 AM"
+            },
+            {
+                "EventId": 717866740,
+                "LocationId": 0,
+                "Lift": "One",
+                "Time": "11:28 AM"
+            },
+            {
+                "EventId": 717873197,
+                "LocationId": 0,
+                "Lift": "Wildwood Express #3",
+                "Time": "11:32 AM"
+            },
+            {
+                "EventId": 717916536,
+                "LocationId": 0,
+                "Lift": "Game Creek Express #7",
+                "Time": "12:04 PM"
+            },
+            {
+                "EventId": 718025560,
+                "LocationId": 0,
+                "Lift": "Mountain Top Express #4",
+                "Time": "1:29 PM"
+            },
+            {
+                "EventId": 718070041,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "2:06 PM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 79017563,
+        "ResortName": "Vail",
+        "Day": "12/20/2019",
+        "VerticalFeet": 2681,
+        "Runs": 8,
+        "LiftRides": [
+            {
+                "EventId": 718300274,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "10:27 AM"
+            },
+            {
+                "EventId": 718346563,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "10:54 AM"
+            },
+            {
+                "EventId": 718369892,
+                "LocationId": 0,
+                "Lift": "Northwoods Express #11",
+                "Time": "11:07 AM"
+            },
+            {
+                "EventId": 718419201,
+                "LocationId": 0,
+                "Lift": "Wildwood Express #3",
+                "Time": "11:34 AM"
+            },
+            {
+                "EventId": 718610783,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "1:26 PM"
+            },
+            {
+                "EventId": 718661393,
+                "LocationId": 0,
+                "Lift": "Mountain Top Express #4",
+                "Time": "1:57 PM"
+            },
+            {
+                "EventId": 718681173,
+                "LocationId": 0,
+                "Lift": "Sourdough Express #14",
+                "Time": "2:10 PM"
+            },
+            {
+                "EventId": 718717314,
+                "LocationId": 0,
+                "Lift": "Tea Cup Express #36",
+                "Time": "2:34 PM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 79345703,
+        "ResortName": "Vail",
+        "Day": "12/23/2019",
+        "VerticalFeet": 1738,
+        "Runs": 9,
+        "LiftRides": [
+            {
+                "EventId": 721019076,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "9:53 AM"
+            },
+            {
+                "EventId": 721050213,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "10:06 AM"
+            },
+            {
+                "EventId": 721090057,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "10:22 AM"
+            },
+            {
+                "EventId": 721125011,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "10:34 AM"
+            },
+            {
+                "EventId": 721168855,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "10:50 AM"
+            },
+            {
+                "EventId": 721204997,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "11:02 AM"
+            },
+            {
+                "EventId": 721287346,
+                "LocationId": 0,
+                "Lift": "One",
+                "Time": "11:28 AM"
+            },
+            {
+                "EventId": 721305031,
+                "LocationId": 0,
+                "Lift": "Wildwood Express #3",
+                "Time": "11:34 AM"
+            },
+            {
+                "EventId": 721406555,
+                "LocationId": 0,
+                "Lift": "One",
+                "Time": "12:08 PM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 79452032,
+        "ResortName": "Vail",
+        "Day": "12/24/2019",
+        "VerticalFeet": 1878,
+        "Runs": 6,
+        "LiftRides": [
+            {
+                "EventId": 722025311,
+                "LocationId": 0,
+                "Lift": "Wildwood Express #3",
+                "Time": "9:06 AM"
+            },
+            {
+                "EventId": 722071127,
+                "LocationId": 0,
+                "Lift": "Wildwood Express #3",
+                "Time": "9:39 AM"
+            },
+            {
+                "EventId": 722165101,
+                "LocationId": 0,
+                "Lift": "Wildwood Express #3",
+                "Time": "10:22 AM"
+            },
+            {
+                "EventId": 722243729,
+                "LocationId": 0,
+                "Lift": "Wildwood Express #3",
+                "Time": "10:51 AM"
+            },
+            {
+                "EventId": 722315362,
+                "LocationId": 0,
+                "Lift": "Wildwood Express #3",
+                "Time": "11:16 AM"
+            },
+            {
+                "EventId": 722386552,
+                "LocationId": 0,
+                "Lift": "One",
+                "Time": "11:40 AM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 79594922,
+        "ResortName": "Vail",
+        "Day": "12/25/2019",
+        "VerticalFeet": 1858,
+        "Runs": 11,
+        "LiftRides": [
+            {
+                "EventId": 723077125,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "10:03 AM"
+            },
+            {
+                "EventId": 723093059,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "10:11 AM"
+            },
+            {
+                "EventId": 723122755,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "10:26 AM"
+            },
+            {
+                "EventId": 723144566,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "10:36 AM"
+            },
+            {
+                "EventId": 723169671,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "10:47 AM"
+            },
+            {
+                "EventId": 723196287,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "10:59 AM"
+            },
+            {
+                "EventId": 723224047,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "11:10 AM"
+            },
+            {
+                "EventId": 723282152,
+                "LocationId": 0,
+                "Lift": "One",
+                "Time": "11:33 AM"
+            },
+            {
+                "EventId": 723470252,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "12:50 PM"
+            },
+            {
+                "EventId": 723545813,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "1:23 PM"
+            },
+            {
+                "EventId": 723735792,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "2:53 PM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 79718560,
+        "ResortName": "Vail",
+        "Day": "12/26/2019",
+        "VerticalFeet": 5377,
+        "Runs": 13,
+        "LiftRides": [
+            {
+                "EventId": 724004626,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "10:09 AM"
+            },
+            {
+                "EventId": 724030553,
+                "LocationId": 0,
+                "Lift": "Northwoods Express #11",
+                "Time": "10:21 AM"
+            },
+            {
+                "EventId": 724061517,
+                "LocationId": 0,
+                "Lift": "Northwoods Express #11",
+                "Time": "10:35 AM"
+            },
+            {
+                "EventId": 724092943,
+                "LocationId": 0,
+                "Lift": "High Noon Express #5",
+                "Time": "10:48 AM"
+            },
+            {
+                "EventId": 724118493,
+                "LocationId": 0,
+                "Lift": "Sun Up Express #9",
+                "Time": "10:59 AM"
+            },
+            {
+                "EventId": 724143972,
+                "LocationId": 0,
+                "Lift": "Northwoods Express #11",
+                "Time": "11:09 AM"
+            },
+            {
+                "EventId": 724176201,
+                "LocationId": 0,
+                "Lift": "Mountain Top Express #4",
+                "Time": "11:21 AM"
+            },
+            {
+                "EventId": 724222222,
+                "LocationId": 0,
+                "Lift": "Wildwood Express #3",
+                "Time": "11:38 AM"
+            },
+            {
+                "EventId": 724416821,
+                "LocationId": 0,
+                "Lift": "One",
+                "Time": "12:56 PM"
+            },
+            {
+                "EventId": 724424184,
+                "LocationId": 0,
+                "Lift": "Wildwood Express #3",
+                "Time": "12:59 PM"
+            },
+            {
+                "EventId": 724498691,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "1:31 PM"
+            },
+            {
+                "EventId": 724581804,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "2:07 PM"
+            },
+            {
+                "EventId": 724629132,
+                "LocationId": 0,
+                "Lift": "Wildwood Express #3",
+                "Time": "2:29 PM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 79913238,
+        "ResortName": "Vail",
+        "Day": "12/27/2019",
+        "VerticalFeet": 223,
+        "Runs": 5,
+        "LiftRides": [
+            {
+                "EventId": 725581042,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "1:33 PM"
+            },
+            {
+                "EventId": 725614440,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "1:44 PM"
+            },
+            {
+                "EventId": 725754060,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "2:37 PM"
+            },
+            {
+                "EventId": 725799621,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "2:55 PM"
+            },
+            {
+                "EventId": 725827583,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "3:07 PM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 80354678,
+        "ResortName": "Vail",
+        "Day": "12/30/2019",
+        "VerticalFeet": 609,
+        "Runs": 1,
+        "LiftRides": [
+            {
+                "EventId": 728830405,
+                "LocationId": 0,
+                "Lift": "One",
+                "Time": "11:49 AM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 80439948,
+        "ResortName": "Vail",
+        "Day": "12/31/2019",
+        "VerticalFeet": 5541,
+        "Runs": 14,
+        "LiftRides": [
+            {
+                "EventId": 729702430,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "9:33 AM"
+            },
+            {
+                "EventId": 729802735,
+                "LocationId": 0,
+                "Lift": "One",
+                "Time": "10:15 AM"
+            },
+            {
+                "EventId": 729817921,
+                "LocationId": 0,
+                "Lift": "Mountain Top Express #4",
+                "Time": "10:21 AM"
+            },
+            {
+                "EventId": 729879368,
+                "LocationId": 0,
+                "Lift": "Wildwood Express #3",
+                "Time": "10:41 AM"
+            },
+            {
+                "EventId": 729926322,
+                "LocationId": 0,
+                "Lift": "Mountain Top Express #4",
+                "Time": "10:56 AM"
+            },
+            {
+                "EventId": 729989874,
+                "LocationId": 0,
+                "Lift": "Wildwood Express #3",
+                "Time": "11:14 AM"
+            },
+            {
+                "EventId": 730245212,
+                "LocationId": 0,
+                "Lift": "Mountain Top Express #4",
+                "Time": "12:25 PM"
+            },
+            {
+                "EventId": 730297053,
+                "LocationId": 0,
+                "Lift": "Sun Up Express #9",
+                "Time": "12:40 PM"
+            },
+            {
+                "EventId": 730352177,
+                "LocationId": 0,
+                "Lift": "High Noon Express #5",
+                "Time": "12:56 PM"
+            },
+            {
+                "EventId": 730398234,
+                "LocationId": 0,
+                "Lift": "Sun Up Express #9",
+                "Time": "1:09 PM"
+            },
+            {
+                "EventId": 730447741,
+                "LocationId": 0,
+                "Lift": "SkyLine Express #37",
+                "Time": "1:24 PM"
+            },
+            {
+                "EventId": 730530764,
+                "LocationId": 0,
+                "Lift": "Tea Cup Express #36",
+                "Time": "1:51 PM"
+            },
+            {
+                "EventId": 730567798,
+                "LocationId": 0,
+                "Lift": "Sourdough Express #14",
+                "Time": "2:03 PM"
+            },
+            {
+                "EventId": 730864792,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "5:37 PM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 80603905,
+        "ResortName": "Vail",
+        "Day": "1/1/2020",
+        "VerticalFeet": 3180,
+        "Runs": 8,
+        "LiftRides": [
+            {
+                "EventId": 730989122,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "9:35 AM"
+            },
+            {
+                "EventId": 731083755,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "10:16 AM"
+            },
+            {
+                "EventId": 731139538,
+                "LocationId": 0,
+                "Lift": "One",
+                "Time": "10:36 AM"
+            },
+            {
+                "EventId": 731253912,
+                "LocationId": 0,
+                "Lift": "Mountain Top Express #4",
+                "Time": "11:14 AM"
+            },
+            {
+                "EventId": 731317077,
+                "LocationId": 0,
+                "Lift": "Wildwood Express #3",
+                "Time": "11:34 AM"
+            },
+            {
+                "EventId": 731694825,
+                "LocationId": 0,
+                "Lift": "One",
+                "Time": "1:37 PM"
+            },
+            {
+                "EventId": 731826683,
+                "LocationId": 0,
+                "Lift": "One",
+                "Time": "2:22 PM"
+            },
+            {
+                "EventId": 731840316,
+                "LocationId": 0,
+                "Lift": "Wildwood Express #3",
+                "Time": "2:28 PM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 80767706,
+        "ResortName": "Vail",
+        "Day": "1/2/2020",
+        "VerticalFeet": 4353,
+        "Runs": 10,
+        "LiftRides": [
+            {
+                "EventId": 732204531,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "9:35 AM"
+            },
+            {
+                "EventId": 732377704,
+                "LocationId": 0,
+                "Lift": "One",
+                "Time": "10:33 AM"
+            },
+            {
+                "EventId": 732400139,
+                "LocationId": 0,
+                "Lift": "Mountain Top Express #4",
+                "Time": "10:40 AM"
+            },
+            {
+                "EventId": 732523166,
+                "LocationId": 0,
+                "Lift": "Wildwood Express #3",
+                "Time": "11:13 AM"
+            },
+            {
+                "EventId": 732848057,
+                "LocationId": 0,
+                "Lift": "Eagle Bahn Gondola #19",
+                "Time": "12:40 PM"
+            },
+            {
+                "EventId": 732936598,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "1:05 PM"
+            },
+            {
+                "EventId": 732990133,
+                "LocationId": 0,
+                "Lift": "Mountain Top Express #4",
+                "Time": "1:20 PM"
+            },
+            {
+                "EventId": 733055419,
+                "LocationId": 0,
+                "Lift": "Sun Up Express #9",
+                "Time": "1:40 PM"
+            },
+            {
+                "EventId": 733114152,
+                "LocationId": 0,
+                "Lift": "High Noon Express #5",
+                "Time": "1:58 PM"
+            },
+            {
+                "EventId": 733154828,
+                "LocationId": 0,
+                "Lift": "Sun Up Express #9",
+                "Time": "2:11 PM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 80933181,
+        "ResortName": "Vail",
+        "Day": "1/3/2020",
+        "VerticalFeet": 4575,
+        "Runs": 11,
+        "LiftRides": [
+            {
+                "EventId": 733591213,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "9:34 AM"
+            },
+            {
+                "EventId": 733675253,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "10:10 AM"
+            },
+            {
+                "EventId": 733710846,
+                "LocationId": 0,
+                "Lift": "Northwoods Express #11",
+                "Time": "10:23 AM"
+            },
+            {
+                "EventId": 733844856,
+                "LocationId": 0,
+                "Lift": "Mountain Top Express #4",
+                "Time": "11:05 AM"
+            },
+            {
+                "EventId": 733901678,
+                "LocationId": 0,
+                "Lift": "Wildwood Express #3",
+                "Time": "11:22 AM"
+            },
+            {
+                "EventId": 734187890,
+                "LocationId": 0,
+                "Lift": "Mountain Top Express #4",
+                "Time": "12:49 PM"
+            },
+            {
+                "EventId": 734235919,
+                "LocationId": 0,
+                "Lift": "Sun Up Express #9",
+                "Time": "1:04 PM"
+            },
+            {
+                "EventId": 734299415,
+                "LocationId": 0,
+                "Lift": "High Noon Express #5",
+                "Time": "1:25 PM"
+            },
+            {
+                "EventId": 734371052,
+                "LocationId": 0,
+                "Lift": "High Noon Express #5",
+                "Time": "1:49 PM"
+            },
+            {
+                "EventId": 734450746,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "2:16 PM"
+            },
+            {
+                "EventId": 734575865,
+                "LocationId": 0,
+                "Lift": "Mountain Top Express #4",
+                "Time": "3:02 PM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 81228053,
+        "ResortName": "Vail",
+        "Day": "1/5/2020",
+        "VerticalFeet": 1916,
+        "Runs": 13,
+        "LiftRides": [
+            {
+                "EventId": 736118040,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "8:47 AM"
+            },
+            {
+                "EventId": 736338706,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "10:37 AM"
+            },
+            {
+                "EventId": 736390163,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "10:55 AM"
+            },
+            {
+                "EventId": 736471100,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "11:22 AM"
+            },
+            {
+                "EventId": 736510465,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "11:35 AM"
+            },
+            {
+                "EventId": 736549465,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "11:48 AM"
+            },
+            {
+                "EventId": 736590826,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "12:02 PM"
+            },
+            {
+                "EventId": 736622272,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "12:13 PM"
+            },
+            {
+                "EventId": 736930760,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "2:13 PM"
+            },
+            {
+                "EventId": 736980579,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "2:35 PM"
+            },
+            {
+                "EventId": 737034599,
+                "LocationId": 0,
+                "Lift": "One",
+                "Time": "3:02 PM"
+            },
+            {
+                "EventId": 737045228,
+                "LocationId": 0,
+                "Lift": "Wildwood Express #3",
+                "Time": "3:08 PM"
+            },
+            {
+                "EventId": 737092296,
+                "LocationId": 0,
+                "Lift": "One",
+                "Time": "3:41 PM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 81361583,
+        "ResortName": "Vail",
+        "Day": "1/6/2020",
+        "VerticalFeet": 1454,
+        "Runs": 20,
+        "LiftRides": [
+            {
+                "EventId": 737208843,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "9:47 AM"
+            },
+            {
+                "EventId": 737227659,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "10:01 AM"
+            },
+            {
+                "EventId": 737242061,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "10:11 AM"
+            },
+            {
+                "EventId": 737258770,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "10:21 AM"
+            },
+            {
+                "EventId": 737275962,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "10:31 AM"
+            },
+            {
+                "EventId": 737302433,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "10:46 AM"
+            },
+            {
+                "EventId": 737320296,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "10:56 AM"
+            },
+            {
+                "EventId": 737335864,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "11:04 AM"
+            },
+            {
+                "EventId": 737360753,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "11:17 AM"
+            },
+            {
+                "EventId": 737379353,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "11:26 AM"
+            },
+            {
+                "EventId": 737392771,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "11:33 AM"
+            },
+            {
+                "EventId": 737408213,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "11:41 AM"
+            },
+            {
+                "EventId": 737424088,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "11:49 AM"
+            },
+            {
+                "EventId": 737441607,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "11:59 AM"
+            },
+            {
+                "EventId": 737462109,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "12:10 PM"
+            },
+            {
+                "EventId": 737477520,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "12:19 PM"
+            },
+            {
+                "EventId": 737496261,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "12:29 PM"
+            },
+            {
+                "EventId": 737645386,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "2:02 PM"
+            },
+            {
+                "EventId": 737658646,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "2:10 PM"
+            },
+            {
+                "EventId": 737689834,
+                "LocationId": 0,
+                "Lift": "One",
+                "Time": "2:30 PM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 81451562,
+        "ResortName": "Vail",
+        "Day": "1/7/2020",
+        "VerticalFeet": 5088,
+        "Runs": 13,
+        "LiftRides": [
+            {
+                "EventId": 737932851,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "10:13 AM"
+            },
+            {
+                "EventId": 737948523,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "10:22 AM"
+            },
+            {
+                "EventId": 737967768,
+                "LocationId": 0,
+                "Lift": "Northwoods Express #11",
+                "Time": "10:33 AM"
+            },
+            {
+                "EventId": 738004597,
+                "LocationId": 0,
+                "Lift": "High Noon Express #5",
+                "Time": "10:53 AM"
+            },
+            {
+                "EventId": 738039634,
+                "LocationId": 0,
+                "Lift": "High Noon Express #5",
+                "Time": "11:10 AM"
+            },
+            {
+                "EventId": 738312887,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "1:40 PM"
+            },
+            {
+                "EventId": 738329247,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "1:51 PM"
+            },
+            {
+                "EventId": 738341899,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "1:58 PM"
+            },
+            {
+                "EventId": 738372045,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "2:17 PM"
+            },
+            {
+                "EventId": 738409463,
+                "LocationId": 0,
+                "Lift": "One",
+                "Time": "2:42 PM"
+            },
+            {
+                "EventId": 738423860,
+                "LocationId": 0,
+                "Lift": "Mountain Top Express #4",
+                "Time": "2:52 PM"
+            },
+            {
+                "EventId": 738445232,
+                "LocationId": 0,
+                "Lift": "Mountain Top Express #4",
+                "Time": "3:09 PM"
+            },
+            {
+                "EventId": 738461925,
+                "LocationId": 0,
+                "Lift": "Wildwood Express #3",
+                "Time": "3:24 PM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 81503201,
+        "ResortName": "Vail",
+        "Day": "1/8/2020",
+        "VerticalFeet": 1157,
+        "Runs": 26,
+        "LiftRides": [
+            {
+                "EventId": 738534951,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "8:41 AM"
+            },
+            {
+                "EventId": 738599977,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "9:59 AM"
+            },
+            {
+                "EventId": 738617677,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "10:11 AM"
+            },
+            {
+                "EventId": 738631490,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "10:20 AM"
+            },
+            {
+                "EventId": 738647671,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "10:30 AM"
+            },
+            {
+                "EventId": 738670534,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "10:44 AM"
+            },
+            {
+                "EventId": 738693281,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "10:57 AM"
+            },
+            {
+                "EventId": 738707608,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "11:04 AM"
+            },
+            {
+                "EventId": 738729073,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "11:16 AM"
+            },
+            {
+                "EventId": 738744778,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "11:24 AM"
+            },
+            {
+                "EventId": 738756114,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "11:30 AM"
+            },
+            {
+                "EventId": 738768626,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "11:36 AM"
+            },
+            {
+                "EventId": 738781768,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "11:43 AM"
+            },
+            {
+                "EventId": 738796346,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "11:51 AM"
+            },
+            {
+                "EventId": 738809757,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "11:58 AM"
+            },
+            {
+                "EventId": 738822947,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "12:06 PM"
+            },
+            {
+                "EventId": 738839579,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "12:15 PM"
+            },
+            {
+                "EventId": 738853669,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "12:23 PM"
+            },
+            {
+                "EventId": 738869592,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "12:33 PM"
+            },
+            {
+                "EventId": 739045074,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "2:27 PM"
+            },
+            {
+                "EventId": 739061642,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "2:39 PM"
+            },
+            {
+                "EventId": 739071186,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "2:46 PM"
+            },
+            {
+                "EventId": 739083612,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "2:56 PM"
+            },
+            {
+                "EventId": 739096496,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "3:07 PM"
+            },
+            {
+                "EventId": 739108775,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "3:18 PM"
+            },
+            {
+                "EventId": 739117203,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "3:26 PM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 81624570,
+        "ResortName": "Vail",
+        "Day": "1/9/2020",
+        "VerticalFeet": 3242,
+        "Runs": 10,
+        "LiftRides": [
+            {
+                "EventId": 739405429,
+                "LocationId": 0,
+                "Lift": "Eagle Bahn Gondola #19",
+                "Time": "11:26 AM"
+            },
+            {
+                "EventId": 739449156,
+                "LocationId": 0,
+                "Lift": "Little Eagle #15",
+                "Time": "11:49 AM"
+            },
+            {
+                "EventId": 739469477,
+                "LocationId": 0,
+                "Lift": "Little Eagle #15",
+                "Time": "11:59 AM"
+            },
+            {
+                "EventId": 739485543,
+                "LocationId": 0,
+                "Lift": "Little Eagle #15",
+                "Time": "12:08 PM"
+            },
+            {
+                "EventId": 739521132,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "12:28 PM"
+            },
+            {
+                "EventId": 739555564,
+                "LocationId": 0,
+                "Lift": "Mountain Top Express #4",
+                "Time": "12:48 PM"
+            },
+            {
+                "EventId": 739586365,
+                "LocationId": 0,
+                "Lift": "Mountain Top Express #4",
+                "Time": "1:08 PM"
+            },
+            {
+                "EventId": 739712966,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "2:30 PM"
+            },
+            {
+                "EventId": 739738730,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "2:50 PM"
+            },
+            {
+                "EventId": 739762176,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "3:09 PM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 81722370,
+        "ResortName": "Vail",
+        "Day": "1/10/2020",
+        "VerticalFeet": 2582,
+        "Runs": 7,
+        "LiftRides": [
+            {
+                "EventId": 740257208,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "12:24 PM"
+            },
+            {
+                "EventId": 740295209,
+                "LocationId": 0,
+                "Lift": "One",
+                "Time": "12:42 PM"
+            },
+            {
+                "EventId": 740303266,
+                "LocationId": 0,
+                "Lift": "Mountain Top Express #4",
+                "Time": "12:46 PM"
+            },
+            {
+                "EventId": 740328722,
+                "LocationId": 0,
+                "Lift": "Wildwood Express #3",
+                "Time": "12:59 PM"
+            },
+            {
+                "EventId": 740375731,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "1:21 PM"
+            },
+            {
+                "EventId": 740471925,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "2:12 PM"
+            },
+            {
+                "EventId": 740503342,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "2:29 PM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 82388519,
+        "ResortName": "Vail",
+        "Day": "1/18/2020",
+        "VerticalFeet": 1767,
+        "Runs": 18,
+        "LiftRides": [
+            {
+                "EventId": 745881803,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "9:45 AM"
+            },
+            {
+                "EventId": 745938199,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "10:04 AM"
+            },
+            {
+                "EventId": 745973310,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "10:15 AM"
+            },
+            {
+                "EventId": 746007868,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "10:25 AM"
+            },
+            {
+                "EventId": 746058401,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "10:40 AM"
+            },
+            {
+                "EventId": 746090635,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "10:49 AM"
+            },
+            {
+                "EventId": 746123832,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "10:58 AM"
+            },
+            {
+                "EventId": 746171216,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "11:11 AM"
+            },
+            {
+                "EventId": 746390342,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "12:12 PM"
+            },
+            {
+                "EventId": 746419527,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "12:21 PM"
+            },
+            {
+                "EventId": 746454761,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "12:31 PM"
+            },
+            {
+                "EventId": 746488446,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "12:41 PM"
+            },
+            {
+                "EventId": 746518356,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "12:50 PM"
+            },
+            {
+                "EventId": 746579299,
+                "LocationId": 0,
+                "Lift": "One",
+                "Time": "1:10 PM"
+            },
+            {
+                "EventId": 746637609,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "1:29 PM"
+            },
+            {
+                "EventId": 746890281,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "3:01 PM"
+            },
+            {
+                "EventId": 746911411,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "3:10 PM"
+            },
+            {
+                "EventId": 746934992,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "3:20 PM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 82558894,
+        "ResortName": "Vail",
+        "Day": "1/19/2020",
+        "VerticalFeet": 2528,
+        "Runs": 8,
+        "LiftRides": [
+            {
+                "EventId": 747287158,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "9:50 AM"
+            },
+            {
+                "EventId": 747339006,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "10:06 AM"
+            },
+            {
+                "EventId": 747369905,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "10:15 AM"
+            },
+            {
+                "EventId": 747451921,
+                "LocationId": 0,
+                "Lift": "One",
+                "Time": "10:37 AM"
+            },
+            {
+                "EventId": 747503517,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "10:49 AM"
+            },
+            {
+                "EventId": 747662368,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "11:27 AM"
+            },
+            {
+                "EventId": 748058301,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "1:04 PM"
+            },
+            {
+                "EventId": 748181314,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "1:38 PM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 82712840,
+        "ResortName": "Vail",
+        "Day": "1/20/2020",
+        "VerticalFeet": 3827,
+        "Runs": 9,
+        "LiftRides": [
+            {
+                "EventId": 748738962,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "9:42 AM"
+            },
+            {
+                "EventId": 748775665,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "9:59 AM"
+            },
+            {
+                "EventId": 748824273,
+                "LocationId": 0,
+                "Lift": "One",
+                "Time": "10:19 AM"
+            },
+            {
+                "EventId": 748865234,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "10:35 AM"
+            },
+            {
+                "EventId": 748939843,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "11:01 AM"
+            },
+            {
+                "EventId": 749239260,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "12:51 PM"
+            },
+            {
+                "EventId": 749347071,
+                "LocationId": 0,
+                "Lift": "Eagle Bahn Gondola #19",
+                "Time": "1:37 PM"
+            },
+            {
+                "EventId": 749350136,
+                "LocationId": 0,
+                "Lift": "Eagle Bahn Gondola #19",
+                "Time": "1:39 PM"
+            },
+            {
+                "EventId": 749415375,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "2:08 PM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 82802208,
+        "ResortName": "Vail",
+        "Day": "1/21/2020",
+        "VerticalFeet": 2100,
+        "Runs": 6,
+        "LiftRides": [
+            {
+                "EventId": 749668368,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "9:41 AM"
+            },
+            {
+                "EventId": 749679743,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "9:52 AM"
+            },
+            {
+                "EventId": 749732480,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "10:34 AM"
+            },
+            {
+                "EventId": 749783091,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "11:09 AM"
+            },
+            {
+                "EventId": 749931965,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "12:59 PM"
+            },
+            {
+                "EventId": 749983119,
+                "LocationId": 0,
+                "Lift": "Eagle Bahn Gondola #19",
+                "Time": "1:43 PM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 82861596,
+        "ResortName": "Vail",
+        "Day": "1/22/2020",
+        "VerticalFeet": 2536,
+        "Runs": 8,
+        "LiftRides": [
+            {
+                "EventId": 750182898,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "9:41 AM"
+            },
+            {
+                "EventId": 750194994,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "9:51 AM"
+            },
+            {
+                "EventId": 750264551,
+                "LocationId": 0,
+                "Lift": "One",
+                "Time": "10:40 AM"
+            },
+            {
+                "EventId": 750301130,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "11:02 AM"
+            },
+            {
+                "EventId": 750432640,
+                "LocationId": 0,
+                "Lift": "Wildwood Express #3",
+                "Time": "12:26 PM"
+            },
+            {
+                "EventId": 750465868,
+                "LocationId": 0,
+                "Lift": "Mountain Top Express #4",
+                "Time": "12:50 PM"
+            },
+            {
+                "EventId": 750502647,
+                "LocationId": 0,
+                "Lift": "Mountain Top Express #4",
+                "Time": "1:19 PM"
+            },
+            {
+                "EventId": 750614764,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "2:53 PM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 82928476,
+        "ResortName": "Vail",
+        "Day": "1/23/2020",
+        "VerticalFeet": 4946,
+        "Runs": 12,
+        "LiftRides": [
+            {
+                "EventId": 750767461,
+                "LocationId": 0,
+                "Lift": "Eagle Bahn Gondola #19",
+                "Time": "9:41 AM"
+            },
+            {
+                "EventId": 750810151,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "10:12 AM"
+            },
+            {
+                "EventId": 750839978,
+                "LocationId": 0,
+                "Lift": "Mountain Top Express #4",
+                "Time": "10:31 AM"
+            },
+            {
+                "EventId": 750871681,
+                "LocationId": 0,
+                "Lift": "Mountain Top Express #4",
+                "Time": "10:49 AM"
+            },
+            {
+                "EventId": 750914927,
+                "LocationId": 0,
+                "Lift": "Wildwood Express #3",
+                "Time": "11:13 AM"
+            },
+            {
+                "EventId": 750953525,
+                "LocationId": 0,
+                "Lift": "Wildwood Express #3",
+                "Time": "11:35 AM"
+            },
+            {
+                "EventId": 750981613,
+                "LocationId": 0,
+                "Lift": "Mountain Top Express #4",
+                "Time": "11:52 AM"
+            },
+            {
+                "EventId": 751009978,
+                "LocationId": 0,
+                "Lift": "Sun Up Express #9",
+                "Time": "12:10 PM"
+            },
+            {
+                "EventId": 751035430,
+                "LocationId": 0,
+                "Lift": "SkyLine Express #37",
+                "Time": "12:27 PM"
+            },
+            {
+                "EventId": 751197028,
+                "LocationId": 0,
+                "Lift": "Earl's Express #38",
+                "Time": "2:29 PM"
+            },
+            {
+                "EventId": 751232814,
+                "LocationId": 0,
+                "Lift": "Tea Cup Express #36",
+                "Time": "3:02 PM"
+            },
+            {
+                "EventId": 751257046,
+                "LocationId": 0,
+                "Lift": "Northwoods Express #11",
+                "Time": "3:30 PM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 83010036,
+        "ResortName": "Vail",
+        "Day": "1/24/2020",
+        "VerticalFeet": 3083,
+        "Runs": 8,
+        "LiftRides": [
+            {
+                "EventId": 751413843,
+                "LocationId": 0,
+                "Lift": "Born Free Express #8",
+                "Time": "9:49 AM"
+            },
+            {
+                "EventId": 751446712,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "10:07 AM"
+            },
+            {
+                "EventId": 751480041,
+                "LocationId": 0,
+                "Lift": "Wildwood Express #3",
+                "Time": "10:23 AM"
+            },
+            {
+                "EventId": 751505964,
+                "LocationId": 0,
+                "Lift": "Wildwood Express #3",
+                "Time": "10:34 AM"
+            },
+            {
+                "EventId": 751567790,
+                "LocationId": 0,
+                "Lift": "Game Creek Express #7",
+                "Time": "11:00 AM"
+            },
+            {
+                "EventId": 751606081,
+                "LocationId": 0,
+                "Lift": "Game Creek Express #7",
+                "Time": "11:16 AM"
+            },
+            {
+                "EventId": 751653498,
+                "LocationId": 0,
+                "Lift": "Game Creek Express #7",
+                "Time": "11:35 AM"
+            },
+            {
+                "EventId": 751705744,
+                "LocationId": 0,
+                "Lift": "High Noon Express #5",
+                "Time": "11:56 AM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 83321549,
+        "ResortName": "Vail",
+        "Day": "1/26/2020",
+        "VerticalFeet": 3491,
+        "Runs": 9,
+        "LiftRides": [
+            {
+                "EventId": 753948639,
+                "LocationId": 0,
+                "Lift": "Born Free Express #8",
+                "Time": "11:10 AM"
+            },
+            {
+                "EventId": 753984055,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "11:22 AM"
+            },
+            {
+                "EventId": 754035193,
+                "LocationId": 0,
+                "Lift": "Mountain Top Express #4",
+                "Time": "11:39 AM"
+            },
+            {
+                "EventId": 754065929,
+                "LocationId": 0,
+                "Lift": "Sun Up Express #9",
+                "Time": "11:50 AM"
+            },
+            {
+                "EventId": 754086235,
+                "LocationId": 0,
+                "Lift": "Sourdough Express #14",
+                "Time": "11:57 AM"
+            },
+            {
+                "EventId": 754100648,
+                "LocationId": 0,
+                "Lift": "Sourdough Express #14",
+                "Time": "12:02 PM"
+            },
+            {
+                "EventId": 754313108,
+                "LocationId": 0,
+                "Lift": "SkyLine Express #37",
+                "Time": "1:24 PM"
+            },
+            {
+                "EventId": 754393390,
+                "LocationId": 0,
+                "Lift": "Pete's Express #39",
+                "Time": "1:58 PM"
+            },
+            {
+                "EventId": 754486575,
+                "LocationId": 0,
+                "Lift": "Tea Cup Express #36",
+                "Time": "2:36 PM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 83412423,
+        "ResortName": "Vail",
+        "Day": "1/27/2020",
+        "VerticalFeet": 579,
+        "Runs": 13,
+        "LiftRides": [
+            {
+                "EventId": 754880408,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "11:17 AM"
+            },
+            {
+                "EventId": 754897963,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "11:26 AM"
+            },
+            {
+                "EventId": 754917332,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "11:36 AM"
+            },
+            {
+                "EventId": 754955205,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "11:57 AM"
+            },
+            {
+                "EventId": 755075348,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "1:16 PM"
+            },
+            {
+                "EventId": 755086241,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "1:24 PM"
+            },
+            {
+                "EventId": 755100015,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "1:33 PM"
+            },
+            {
+                "EventId": 755113055,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "1:42 PM"
+            },
+            {
+                "EventId": 755127681,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "1:52 PM"
+            },
+            {
+                "EventId": 755140514,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "2:01 PM"
+            },
+            {
+                "EventId": 755199327,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "2:46 PM"
+            },
+            {
+                "EventId": 755212908,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "2:57 PM"
+            },
+            {
+                "EventId": 755222947,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "3:06 PM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 83452766,
+        "ResortName": "Vail",
+        "Day": "1/28/2020",
+        "VerticalFeet": 2558,
+        "Runs": 13,
+        "LiftRides": [
+            {
+                "EventId": 755349386,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "9:36 AM"
+            },
+            {
+                "EventId": 755357950,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "9:44 AM"
+            },
+            {
+                "EventId": 755370094,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "9:53 AM"
+            },
+            {
+                "EventId": 755381591,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "10:01 AM"
+            },
+            {
+                "EventId": 755393384,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "10:09 AM"
+            },
+            {
+                "EventId": 755408232,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "10:19 AM"
+            },
+            {
+                "EventId": 755440986,
+                "LocationId": 0,
+                "Lift": "One",
+                "Time": "10:38 AM"
+            },
+            {
+                "EventId": 755449576,
+                "LocationId": 0,
+                "Lift": "Wildwood Express #3",
+                "Time": "10:43 AM"
+            },
+            {
+                "EventId": 755581510,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "11:56 AM"
+            },
+            {
+                "EventId": 755736365,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "1:38 PM"
+            },
+            {
+                "EventId": 755777471,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "2:07 PM"
+            },
+            {
+                "EventId": 755838773,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "2:55 PM"
+            },
+            {
+                "EventId": 755850637,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "3:06 PM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 83521319,
+        "ResortName": "Vail",
+        "Day": "1/29/2020",
+        "VerticalFeet": 3259,
+        "Runs": 11,
+        "LiftRides": [
+            {
+                "EventId": 755983983,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "9:51 AM"
+            },
+            {
+                "EventId": 756007982,
+                "LocationId": 0,
+                "Lift": "One",
+                "Time": "10:11 AM"
+            },
+            {
+                "EventId": 756012873,
+                "LocationId": 0,
+                "Lift": "Wildwood Express #3",
+                "Time": "10:15 AM"
+            },
+            {
+                "EventId": 756051728,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "10:43 AM"
+            },
+            {
+                "EventId": 756107433,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "11:20 AM"
+            },
+            {
+                "EventId": 756168594,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "12:00 PM"
+            },
+            {
+                "EventId": 756182543,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "12:10 PM"
+            },
+            {
+                "EventId": 756295308,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "1:37 PM"
+            },
+            {
+                "EventId": 756318274,
+                "LocationId": 0,
+                "Lift": "One",
+                "Time": "1:56 PM"
+            },
+            {
+                "EventId": 756349697,
+                "LocationId": 0,
+                "Lift": "Eagle Bahn Gondola #19",
+                "Time": "2:21 PM"
+            },
+            {
+                "EventId": 756411828,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "3:18 PM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 83586351,
+        "ResortName": "Vail",
+        "Day": "1/30/2020",
+        "VerticalFeet": 6380,
+        "Runs": 15,
+        "LiftRides": [
+            {
+                "EventId": 756546573,
+                "LocationId": 0,
+                "Lift": "Born Free Express #8",
+                "Time": "9:56 AM"
+            },
+            {
+                "EventId": 756566655,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "10:10 AM"
+            },
+            {
+                "EventId": 756585710,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "10:23 AM"
+            },
+            {
+                "EventId": 756622905,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "10:46 AM"
+            },
+            {
+                "EventId": 756662124,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "11:08 AM"
+            },
+            {
+                "EventId": 756727917,
+                "LocationId": 0,
+                "Lift": "Mountain Top Express #4",
+                "Time": "11:45 AM"
+            },
+            {
+                "EventId": 756750090,
+                "LocationId": 0,
+                "Lift": "Sourdough Express #14",
+                "Time": "11:57 AM"
+            },
+            {
+                "EventId": 756791277,
+                "LocationId": 0,
+                "Lift": "Northwoods Express #11",
+                "Time": "12:21 PM"
+            },
+            {
+                "EventId": 756807399,
+                "LocationId": 0,
+                "Lift": "Wildwood Express #3",
+                "Time": "12:31 PM"
+            },
+            {
+                "EventId": 756930221,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "1:52 PM"
+            },
+            {
+                "EventId": 756968932,
+                "LocationId": 0,
+                "Lift": "One",
+                "Time": "2:20 PM"
+            },
+            {
+                "EventId": 756976047,
+                "LocationId": 0,
+                "Lift": "Mountain Top Express #4",
+                "Time": "2:25 PM"
+            },
+            {
+                "EventId": 757015969,
+                "LocationId": 0,
+                "Lift": "One",
+                "Time": "2:56 PM"
+            },
+            {
+                "EventId": 757037267,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "3:16 PM"
+            },
+            {
+                "EventId": 757048418,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "3:27 PM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 83663651,
+        "ResortName": "Vail",
+        "Day": "1/31/2020",
+        "VerticalFeet": 2333,
+        "Runs": 6,
+        "LiftRides": [
+            {
+                "EventId": 757209192,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "9:47 AM"
+            },
+            {
+                "EventId": 757232278,
+                "LocationId": 0,
+                "Lift": "Northwoods Express #11",
+                "Time": "9:59 AM"
+            },
+            {
+                "EventId": 757277413,
+                "LocationId": 0,
+                "Lift": "Mountain Top Express #4",
+                "Time": "10:21 AM"
+            },
+            {
+                "EventId": 757327203,
+                "LocationId": 0,
+                "Lift": "Wildwood Express #3",
+                "Time": "10:42 AM"
+            },
+            {
+                "EventId": 757373535,
+                "LocationId": 0,
+                "Lift": "Game Creek Express #7",
+                "Time": "11:01 AM"
+            },
+            {
+                "EventId": 757443237,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "11:29 AM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 83773222,
+        "ResortName": "Vail",
+        "Day": "2/1/2020",
+        "VerticalFeet": 5953,
+        "Runs": 14,
+        "LiftRides": [
+            {
+                "EventId": 758146911,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "9:27 AM"
+            },
+            {
+                "EventId": 758189606,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "9:45 AM"
+            },
+            {
+                "EventId": 758229124,
+                "LocationId": 0,
+                "Lift": "Northwoods Express #11",
+                "Time": "9:59 AM"
+            },
+            {
+                "EventId": 758278086,
+                "LocationId": 0,
+                "Lift": "Wildwood Express #3",
+                "Time": "10:15 AM"
+            },
+            {
+                "EventId": 758320520,
+                "LocationId": 0,
+                "Lift": "Mountain Top Express #4",
+                "Time": "10:27 AM"
+            },
+            {
+                "EventId": 758414585,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "10:54 AM"
+            },
+            {
+                "EventId": 758559552,
+                "LocationId": 0,
+                "Lift": "Wildwood Express #3",
+                "Time": "11:33 AM"
+            },
+            {
+                "EventId": 758734014,
+                "LocationId": 0,
+                "Lift": "Mountain Top Express #4",
+                "Time": "12:21 PM"
+            },
+            {
+                "EventId": 758811148,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "12:43 PM"
+            },
+            {
+                "EventId": 758884700,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "1:05 PM"
+            },
+            {
+                "EventId": 758933947,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "1:20 PM"
+            },
+            {
+                "EventId": 759021253,
+                "LocationId": 0,
+                "Lift": "Eagle Bahn Gondola #19",
+                "Time": "1:48 PM"
+            },
+            {
+                "EventId": 759155513,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "2:36 PM"
+            },
+            {
+                "EventId": 759226153,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "3:03 PM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 83933623,
+        "ResortName": "Vail",
+        "Day": "2/2/2020",
+        "VerticalFeet": 5432,
+        "Runs": 13,
+        "LiftRides": [
+            {
+                "EventId": 759557130,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "9:35 AM"
+            },
+            {
+                "EventId": 759604434,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "9:53 AM"
+            },
+            {
+                "EventId": 759645164,
+                "LocationId": 0,
+                "Lift": "Northwoods Express #11",
+                "Time": "10:08 AM"
+            },
+            {
+                "EventId": 759700386,
+                "LocationId": 0,
+                "Lift": "Mountain Top Express #4",
+                "Time": "10:26 AM"
+            },
+            {
+                "EventId": 759762763,
+                "LocationId": 0,
+                "Lift": "Wildwood Express #3",
+                "Time": "10:45 AM"
+            },
+            {
+                "EventId": 759827875,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "11:06 AM"
+            },
+            {
+                "EventId": 760056821,
+                "LocationId": 0,
+                "Lift": "Eagle Bahn Gondola #19",
+                "Time": "12:20 PM"
+            },
+            {
+                "EventId": 760126222,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "12:44 PM"
+            },
+            {
+                "EventId": 760159580,
+                "LocationId": 0,
+                "Lift": "Wildwood Express #3",
+                "Time": "12:57 PM"
+            },
+            {
+                "EventId": 760188605,
+                "LocationId": 0,
+                "Lift": "Wildwood Express #3",
+                "Time": "1:09 PM"
+            },
+            {
+                "EventId": 760234417,
+                "LocationId": 0,
+                "Lift": "Mountain Top Express #4",
+                "Time": "1:28 PM"
+            },
+            {
+                "EventId": 760290311,
+                "LocationId": 0,
+                "Lift": "High Noon Express #5",
+                "Time": "1:52 PM"
+            },
+            {
+                "EventId": 760406790,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "2:55 PM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 84054261,
+        "ResortName": "Vail",
+        "Day": "2/3/2020",
+        "VerticalFeet": 3992,
+        "Runs": 12,
+        "LiftRides": [
+            {
+                "EventId": 760636900,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "10:34 AM"
+            },
+            {
+                "EventId": 760652284,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "10:43 AM"
+            },
+            {
+                "EventId": 760668275,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "10:51 AM"
+            },
+            {
+                "EventId": 760697329,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "11:06 AM"
+            },
+            {
+                "EventId": 760723491,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "11:20 AM"
+            },
+            {
+                "EventId": 760746961,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "11:33 AM"
+            },
+            {
+                "EventId": 760849023,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "12:33 PM"
+            },
+            {
+                "EventId": 760878588,
+                "LocationId": 0,
+                "Lift": "One",
+                "Time": "12:52 PM"
+            },
+            {
+                "EventId": 760900142,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "1:07 PM"
+            },
+            {
+                "EventId": 760926826,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "1:25 PM"
+            },
+            {
+                "EventId": 760960953,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "1:49 PM"
+            },
+            {
+                "EventId": 761064558,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "3:14 PM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 84243572,
+        "ResortName": "Vail",
+        "Day": "2/6/2020",
+        "VerticalFeet": 4019,
+        "Runs": 9,
+        "LiftRides": [
+            {
+                "EventId": 762325049,
+                "LocationId": 0,
+                "Lift": "Born Free Express #8",
+                "Time": "10:00 AM"
+            },
+            {
+                "EventId": 762398862,
+                "LocationId": 0,
+                "Lift": "One",
+                "Time": "10:46 AM"
+            },
+            {
+                "EventId": 762409163,
+                "LocationId": 0,
+                "Lift": "Mountain Top Express #4",
+                "Time": "10:52 AM"
+            },
+            {
+                "EventId": 762571672,
+                "LocationId": 0,
+                "Lift": "Mountain Top Express #4",
+                "Time": "12:21 PM"
+            },
+            {
+                "EventId": 762614721,
+                "LocationId": 0,
+                "Lift": "Mountain Top Express #4",
+                "Time": "12:46 PM"
+            },
+            {
+                "EventId": 762657480,
+                "LocationId": 0,
+                "Lift": "Wildwood Express #3",
+                "Time": "1:13 PM"
+            },
+            {
+                "EventId": 762697811,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "1:38 PM"
+            },
+            {
+                "EventId": 762769279,
+                "LocationId": 0,
+                "Lift": "One",
+                "Time": "2:23 PM"
+            },
+            {
+                "EventId": 762830084,
+                "LocationId": 0,
+                "Lift": "One",
+                "Time": "3:08 PM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 84297030,
+        "ResortName": "Vail",
+        "Day": "2/7/2020",
+        "VerticalFeet": 4541,
+        "Runs": 10,
+        "LiftRides": [
+            {
+                "EventId": 762914244,
+                "LocationId": 0,
+                "Lift": "One",
+                "Time": "8:22 AM"
+            },
+            {
+                "EventId": 762915084,
+                "LocationId": 0,
+                "Lift": "Mountain Top Express #4",
+                "Time": "8:25 AM"
+            },
+            {
+                "EventId": 763057769,
+                "LocationId": 0,
+                "Lift": "One",
+                "Time": "10:30 AM"
+            },
+            {
+                "EventId": 763088087,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "10:47 AM"
+            },
+            {
+                "EventId": 763159408,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "11:23 AM"
+            },
+            {
+                "EventId": 763198001,
+                "LocationId": 0,
+                "Lift": "Wildwood Express #3",
+                "Time": "11:42 AM"
+            },
+            {
+                "EventId": 763383154,
+                "LocationId": 0,
+                "Lift": "Mountain Top Express #4",
+                "Time": "1:19 PM"
+            },
+            {
+                "EventId": 763427307,
+                "LocationId": 0,
+                "Lift": "High Noon Express #5",
+                "Time": "1:45 PM"
+            },
+            {
+                "EventId": 763466265,
+                "LocationId": 0,
+                "Lift": "Northwoods Express #11",
+                "Time": "2:09 PM"
+            },
+            {
+                "EventId": 763515142,
+                "LocationId": 0,
+                "Lift": "Northwoods Express #11",
+                "Time": "2:39 PM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 84413150,
+        "ResortName": "Vail",
+        "Day": "2/8/2020",
+        "VerticalFeet": 3717,
+        "Runs": 10,
+        "LiftRides": [
+            {
+                "EventId": 763714249,
+                "LocationId": 0,
+                "Lift": "One",
+                "Time": "8:26 AM"
+            },
+            {
+                "EventId": 763715996,
+                "LocationId": 0,
+                "Lift": "Mountain Top Express #4",
+                "Time": "8:28 AM"
+            },
+            {
+                "EventId": 763815180,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "9:25 AM"
+            },
+            {
+                "EventId": 763841408,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "9:35 AM"
+            },
+            {
+                "EventId": 763962870,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "10:15 AM"
+            },
+            {
+                "EventId": 764385198,
+                "LocationId": 0,
+                "Lift": "High Noon Express #5",
+                "Time": "12:12 PM"
+            },
+            {
+                "EventId": 764484892,
+                "LocationId": 0,
+                "Lift": "Wildwood Express #3",
+                "Time": "12:40 PM"
+            },
+            {
+                "EventId": 764728911,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "1:56 PM"
+            },
+            {
+                "EventId": 764782521,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "2:15 PM"
+            },
+            {
+                "EventId": 764823994,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "2:30 PM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 84658886,
+        "ResortName": "Vail",
+        "Day": "2/9/2020",
+        "VerticalFeet": 4039,
+        "Runs": 9,
+        "LiftRides": [
+            {
+                "EventId": 765486026,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "10:58 AM"
+            },
+            {
+                "EventId": 765521868,
+                "LocationId": 0,
+                "Lift": "Northwoods Express #11",
+                "Time": "11:10 AM"
+            },
+            {
+                "EventId": 765594476,
+                "LocationId": 0,
+                "Lift": "High Noon Express #5",
+                "Time": "11:33 AM"
+            },
+            {
+                "EventId": 765652434,
+                "LocationId": 0,
+                "Lift": "High Noon Express #5",
+                "Time": "11:52 AM"
+            },
+            {
+                "EventId": 765686430,
+                "LocationId": 0,
+                "Lift": "Sourdough Express #14",
+                "Time": "12:04 PM"
+            },
+            {
+                "EventId": 765737848,
+                "LocationId": 0,
+                "Lift": "Northwoods Express #11",
+                "Time": "12:22 PM"
+            },
+            {
+                "EventId": 765793592,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "12:43 PM"
+            },
+            {
+                "EventId": 765830792,
+                "LocationId": 0,
+                "Lift": "Mountain Top Express #4",
+                "Time": "12:57 PM"
+            },
+            {
+                "EventId": 766002650,
+                "LocationId": 0,
+                "Lift": "High Noon Express #5",
+                "Time": "2:07 PM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 84725116,
+        "ResortName": "Vail",
+        "Day": "2/10/2020",
+        "VerticalFeet": 6598,
+        "Runs": 16,
+        "LiftRides": [
+            {
+                "EventId": 766299729,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "9:34 AM"
+            },
+            {
+                "EventId": 766325708,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "9:50 AM"
+            },
+            {
+                "EventId": 766360698,
+                "LocationId": 0,
+                "Lift": "One",
+                "Time": "10:10 AM"
+            },
+            {
+                "EventId": 766370397,
+                "LocationId": 0,
+                "Lift": "Mountain Top Express #4",
+                "Time": "10:15 AM"
+            },
+            {
+                "EventId": 766399796,
+                "LocationId": 0,
+                "Lift": "Sun Up Express #9",
+                "Time": "10:30 AM"
+            },
+            {
+                "EventId": 766431384,
+                "LocationId": 0,
+                "Lift": "High Noon Express #5",
+                "Time": "10:45 AM"
+            },
+            {
+                "EventId": 766473373,
+                "LocationId": 0,
+                "Lift": "Northwoods Express #11",
+                "Time": "11:04 AM"
+            },
+            {
+                "EventId": 766680920,
+                "LocationId": 0,
+                "Lift": "One",
+                "Time": "12:46 PM"
+            },
+            {
+                "EventId": 766701574,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "12:58 PM"
+            },
+            {
+                "EventId": 766738714,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "1:19 PM"
+            },
+            {
+                "EventId": 766762226,
+                "LocationId": 0,
+                "Lift": "Mountain Top Express #4",
+                "Time": "1:32 PM"
+            },
+            {
+                "EventId": 766792747,
+                "LocationId": 0,
+                "Lift": "Sun Up Express #9",
+                "Time": "1:50 PM"
+            },
+            {
+                "EventId": 766822047,
+                "LocationId": 0,
+                "Lift": "Tea Cup Express #36",
+                "Time": "2:07 PM"
+            },
+            {
+                "EventId": 766839645,
+                "LocationId": 0,
+                "Lift": "Sourdough Express #14",
+                "Time": "2:18 PM"
+            },
+            {
+                "EventId": 766896281,
+                "LocationId": 0,
+                "Lift": "Northwoods Express #11",
+                "Time": "2:54 PM"
+            },
+            {
+                "EventId": 766930294,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "3:19 PM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 84802654,
+        "ResortName": "Vail",
+        "Day": "2/11/2020",
+        "VerticalFeet": 3581,
+        "Runs": 9,
+        "LiftRides": [
+            {
+                "EventId": 767048130,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "9:34 AM"
+            },
+            {
+                "EventId": 767109826,
+                "LocationId": 0,
+                "Lift": "Mountain Top Express #4",
+                "Time": "10:18 AM"
+            },
+            {
+                "EventId": 767133650,
+                "LocationId": 0,
+                "Lift": "Wildwood Express #3",
+                "Time": "10:32 AM"
+            },
+            {
+                "EventId": 767364789,
+                "LocationId": 0,
+                "Lift": "Mountain Top Express #4",
+                "Time": "12:37 PM"
+            },
+            {
+                "EventId": 767388420,
+                "LocationId": 0,
+                "Lift": "Mountain Top Express #4",
+                "Time": "12:51 PM"
+            },
+            {
+                "EventId": 767414838,
+                "LocationId": 0,
+                "Lift": "Northwoods Express #11",
+                "Time": "1:07 PM"
+            },
+            {
+                "EventId": 767441337,
+                "LocationId": 0,
+                "Lift": "Northwoods Express #11",
+                "Time": "1:23 PM"
+            },
+            {
+                "EventId": 767476635,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "1:45 PM"
+            },
+            {
+                "EventId": 767585391,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "3:00 PM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 84935963,
+        "ResortName": "Vail",
+        "Day": "2/13/2020",
+        "VerticalFeet": 3815,
+        "Runs": 9,
+        "LiftRides": [
+            {
+                "EventId": 768317211,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "9:30 AM"
+            },
+            {
+                "EventId": 768353638,
+                "LocationId": 0,
+                "Lift": "One",
+                "Time": "10:00 AM"
+            },
+            {
+                "EventId": 768377090,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "10:16 AM"
+            },
+            {
+                "EventId": 768430941,
+                "LocationId": 0,
+                "Lift": "Eagle Bahn Gondola #19",
+                "Time": "10:48 AM"
+            },
+            {
+                "EventId": 768621795,
+                "LocationId": 0,
+                "Lift": "Eagle Bahn Gondola #19",
+                "Time": "12:32 PM"
+            },
+            {
+                "EventId": 768663837,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "12:57 PM"
+            },
+            {
+                "EventId": 768692350,
+                "LocationId": 0,
+                "Lift": "Wildwood Express #3",
+                "Time": "1:15 PM"
+            },
+            {
+                "EventId": 768715274,
+                "LocationId": 0,
+                "Lift": "Mountain Top Express #4",
+                "Time": "1:29 PM"
+            },
+            {
+                "EventId": 768745409,
+                "LocationId": 0,
+                "Lift": "Mountain Top Express #4",
+                "Time": "1:48 PM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 84994095,
+        "ResortName": "Vail",
+        "Day": "2/14/2020",
+        "VerticalFeet": 5750,
+        "Runs": 14,
+        "LiftRides": [
+            {
+                "EventId": 768929003,
+                "LocationId": 0,
+                "Lift": "One",
+                "Time": "7:46 AM"
+            },
+            {
+                "EventId": 768929505,
+                "LocationId": 0,
+                "Lift": "Mountain Top Express #4",
+                "Time": "7:48 AM"
+            },
+            {
+                "EventId": 768933617,
+                "LocationId": 0,
+                "Lift": "Northwoods Express #11",
+                "Time": "8:06 AM"
+            },
+            {
+                "EventId": 768994463,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "9:25 AM"
+            },
+            {
+                "EventId": 769014771,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "9:37 AM"
+            },
+            {
+                "EventId": 769088716,
+                "LocationId": 0,
+                "Lift": "One",
+                "Time": "10:11 AM"
+            },
+            {
+                "EventId": 769127587,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "10:26 AM"
+            },
+            {
+                "EventId": 769194624,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "10:50 AM"
+            },
+            {
+                "EventId": 769477829,
+                "LocationId": 0,
+                "Lift": "Eagle Bahn Gondola #19",
+                "Time": "12:30 PM"
+            },
+            {
+                "EventId": 769529753,
+                "LocationId": 0,
+                "Lift": "Pride Express Lift #26",
+                "Time": "12:50 PM"
+            },
+            {
+                "EventId": 769570181,
+                "LocationId": 0,
+                "Lift": "Pride Express Lift #26",
+                "Time": "1:06 PM"
+            },
+            {
+                "EventId": 769610271,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "1:21 PM"
+            },
+            {
+                "EventId": 769684480,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "1:51 PM"
+            },
+            {
+                "EventId": 769807773,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "2:43 PM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 85156228,
+        "ResortName": "Vail",
+        "Day": "2/15/2020",
+        "VerticalFeet": 4056,
+        "Runs": 11,
+        "LiftRides": [
+            {
+                "EventId": 770123380,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "9:28 AM"
+            },
+            {
+                "EventId": 770147355,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "9:37 AM"
+            },
+            {
+                "EventId": 770247911,
+                "LocationId": 0,
+                "Lift": "One",
+                "Time": "10:09 AM"
+            },
+            {
+                "EventId": 770296566,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "10:23 AM"
+            },
+            {
+                "EventId": 770402842,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "10:52 AM"
+            },
+            {
+                "EventId": 770651294,
+                "LocationId": 0,
+                "Lift": "Wildwood Express #3",
+                "Time": "11:56 AM"
+            },
+            {
+                "EventId": 770776057,
+                "LocationId": 0,
+                "Lift": "Born Free Express #8",
+                "Time": "12:31 PM"
+            },
+            {
+                "EventId": 770826453,
+                "LocationId": 0,
+                "Lift": "Pride Express Lift #26",
+                "Time": "12:45 PM"
+            },
+            {
+                "EventId": 770894848,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "1:05 PM"
+            },
+            {
+                "EventId": 771018392,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "1:44 PM"
+            },
+            {
+                "EventId": 771257741,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "3:15 PM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 85318107,
+        "ResortName": "Vail",
+        "Day": "2/16/2020",
+        "VerticalFeet": 4280,
+        "Runs": 10,
+        "LiftRides": [
+            {
+                "EventId": 771556078,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "9:24 AM"
+            },
+            {
+                "EventId": 771580815,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "9:33 AM"
+            },
+            {
+                "EventId": 771629008,
+                "LocationId": 0,
+                "Lift": "Northwoods Express #11",
+                "Time": "9:49 AM"
+            },
+            {
+                "EventId": 771707944,
+                "LocationId": 0,
+                "Lift": "Mountain Top Express #4",
+                "Time": "10:12 AM"
+            },
+            {
+                "EventId": 771846573,
+                "LocationId": 0,
+                "Lift": "Born Free Express #8",
+                "Time": "10:49 AM"
+            },
+            {
+                "EventId": 772204295,
+                "LocationId": 0,
+                "Lift": "Eagle Bahn Gondola #19",
+                "Time": "12:24 PM"
+            },
+            {
+                "EventId": 772298518,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "12:52 PM"
+            },
+            {
+                "EventId": 772382349,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "1:18 PM"
+            },
+            {
+                "EventId": 772462688,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "1:43 PM"
+            },
+            {
+                "EventId": 772659187,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "2:54 PM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 85481936,
+        "ResortName": "Vail",
+        "Day": "2/17/2020",
+        "VerticalFeet": 4833,
+        "Runs": 9,
+        "LiftRides": [
+            {
+                "EventId": 772986007,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "9:25 AM"
+            },
+            {
+                "EventId": 773112954,
+                "LocationId": 0,
+                "Lift": "One",
+                "Time": "10:08 AM"
+            },
+            {
+                "EventId": 773199809,
+                "LocationId": 0,
+                "Lift": "Eagle Bahn Gondola #19",
+                "Time": "10:34 AM"
+            },
+            {
+                "EventId": 773322767,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "11:07 AM"
+            },
+            {
+                "EventId": 773626364,
+                "LocationId": 0,
+                "Lift": "Eagle Bahn Gondola #19",
+                "Time": "12:30 PM"
+            },
+            {
+                "EventId": 773711838,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "12:56 PM"
+            },
+            {
+                "EventId": 773795977,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "1:24 PM"
+            },
+            {
+                "EventId": 773925094,
+                "LocationId": 0,
+                "Lift": "One",
+                "Time": "2:09 PM"
+            },
+            {
+                "EventId": 774075251,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "3:09 PM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 85619225,
+        "ResortName": "Vail",
+        "Day": "2/18/2020",
+        "VerticalFeet": 5063,
+        "Runs": 11,
+        "LiftRides": [
+            {
+                "EventId": 774289045,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "9:21 AM"
+            },
+            {
+                "EventId": 774336271,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "9:47 AM"
+            },
+            {
+                "EventId": 774380906,
+                "LocationId": 0,
+                "Lift": "One",
+                "Time": "10:06 AM"
+            },
+            {
+                "EventId": 774414286,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "10:19 AM"
+            },
+            {
+                "EventId": 774474215,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "10:41 AM"
+            },
+            {
+                "EventId": 774598912,
+                "LocationId": 0,
+                "Lift": "One",
+                "Time": "11:24 AM"
+            },
+            {
+                "EventId": 774841133,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "12:51 PM"
+            },
+            {
+                "EventId": 774919630,
+                "LocationId": 0,
+                "Lift": "One",
+                "Time": "1:22 PM"
+            },
+            {
+                "EventId": 774930258,
+                "LocationId": 0,
+                "Lift": "Mountain Top Express #4",
+                "Time": "1:27 PM"
+            },
+            {
+                "EventId": 774994558,
+                "LocationId": 0,
+                "Lift": "High Noon Express #5",
+                "Time": "1:53 PM"
+            },
+            {
+                "EventId": 775168189,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "3:14 PM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 85733111,
+        "ResortName": "Vail",
+        "Day": "2/19/2020",
+        "VerticalFeet": 4815,
+        "Runs": 11,
+        "LiftRides": [
+            {
+                "EventId": 775346848,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "9:21 AM"
+            },
+            {
+                "EventId": 775383407,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "9:43 AM"
+            },
+            {
+                "EventId": 775408781,
+                "LocationId": 0,
+                "Lift": "Northwoods Express #11",
+                "Time": "9:57 AM"
+            },
+            {
+                "EventId": 775448435,
+                "LocationId": 0,
+                "Lift": "Northwoods Express #11",
+                "Time": "10:14 AM"
+            },
+            {
+                "EventId": 775499840,
+                "LocationId": 0,
+                "Lift": "Northwoods Express #11",
+                "Time": "10:36 AM"
+            },
+            {
+                "EventId": 775587731,
+                "LocationId": 0,
+                "Lift": "Wildwood Express #3",
+                "Time": "11:09 AM"
+            },
+            {
+                "EventId": 775879820,
+                "LocationId": 0,
+                "Lift": "One",
+                "Time": "1:05 PM"
+            },
+            {
+                "EventId": 775895429,
+                "LocationId": 0,
+                "Lift": "Mountain Top Express #4",
+                "Time": "1:12 PM"
+            },
+            {
+                "EventId": 775932468,
+                "LocationId": 0,
+                "Lift": "Sun Up Express #9",
+                "Time": "1:28 PM"
+            },
+            {
+                "EventId": 776003858,
+                "LocationId": 0,
+                "Lift": "Northwoods Express #11",
+                "Time": "2:00 PM"
+            },
+            {
+                "EventId": 776138166,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "3:11 PM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 85838278,
+        "ResortName": "Vail",
+        "Day": "2/20/2020",
+        "VerticalFeet": 4190,
+        "Runs": 11,
+        "LiftRides": [
+            {
+                "EventId": 776311750,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "9:22 AM"
+            },
+            {
+                "EventId": 776393225,
+                "LocationId": 0,
+                "Lift": "One",
+                "Time": "10:05 AM"
+            },
+            {
+                "EventId": 776408276,
+                "LocationId": 0,
+                "Lift": "Mountain Top Express #4",
+                "Time": "10:12 AM"
+            },
+            {
+                "EventId": 776446980,
+                "LocationId": 0,
+                "Lift": "Northwoods Express #11",
+                "Time": "10:27 AM"
+            },
+            {
+                "EventId": 776489390,
+                "LocationId": 0,
+                "Lift": "Northwoods Express #11",
+                "Time": "10:42 AM"
+            },
+            {
+                "EventId": 776540319,
+                "LocationId": 0,
+                "Lift": "Wildwood Express #3",
+                "Time": "10:59 AM"
+            },
+            {
+                "EventId": 776869693,
+                "LocationId": 0,
+                "Lift": "Black Forest #27",
+                "Time": "12:53 PM"
+            },
+            {
+                "EventId": 776905808,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "1:07 PM"
+            },
+            {
+                "EventId": 776966307,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "1:31 PM"
+            },
+            {
+                "EventId": 777027926,
+                "LocationId": 0,
+                "Lift": "Black Forest #27",
+                "Time": "1:55 PM"
+            },
+            {
+                "EventId": 777070273,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "2:13 PM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 85959044,
+        "ResortName": "Vail",
+        "Day": "2/21/2020",
+        "VerticalFeet": 4525,
+        "Runs": 11,
+        "LiftRides": [
+            {
+                "EventId": 777412117,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "9:20 AM"
+            },
+            {
+                "EventId": 777497005,
+                "LocationId": 0,
+                "Lift": "One",
+                "Time": "9:58 AM"
+            },
+            {
+                "EventId": 777522674,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "10:08 AM"
+            },
+            {
+                "EventId": 777579809,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "10:27 AM"
+            },
+            {
+                "EventId": 777954683,
+                "LocationId": 0,
+                "Lift": "Mountain Top Express #4",
+                "Time": "12:16 PM"
+            },
+            {
+                "EventId": 778027786,
+                "LocationId": 0,
+                "Lift": "Wildwood Express #3",
+                "Time": "12:39 PM"
+            },
+            {
+                "EventId": 778149971,
+                "LocationId": 0,
+                "Lift": "Black Forest #27",
+                "Time": "1:18 PM"
+            },
+            {
+                "EventId": 778221902,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "1:43 PM"
+            },
+            {
+                "EventId": 778355931,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "2:32 PM"
+            },
+            {
+                "EventId": 778398392,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "2:49 PM"
+            },
+            {
+                "EventId": 778443618,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "3:07 PM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 86115344,
+        "ResortName": "Vail",
+        "Day": "2/22/2020",
+        "VerticalFeet": 5569,
+        "Runs": 13,
+        "LiftRides": [
+            {
+                "EventId": 778761731,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "9:23 AM"
+            },
+            {
+                "EventId": 778807952,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "9:39 AM"
+            },
+            {
+                "EventId": 778853169,
+                "LocationId": 0,
+                "Lift": "Northwoods Express #11",
+                "Time": "9:53 AM"
+            },
+            {
+                "EventId": 778900913,
+                "LocationId": 0,
+                "Lift": "Wildwood Express #3",
+                "Time": "10:08 AM"
+            },
+            {
+                "EventId": 778995593,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "10:33 AM"
+            },
+            {
+                "EventId": 779121346,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "11:04 AM"
+            },
+            {
+                "EventId": 779456213,
+                "LocationId": 0,
+                "Lift": "Eagle Bahn Gondola #19",
+                "Time": "12:30 PM"
+            },
+            {
+                "EventId": 779531656,
+                "LocationId": 0,
+                "Lift": "Game Creek Express #7",
+                "Time": "12:50 PM"
+            },
+            {
+                "EventId": 779590260,
+                "LocationId": 0,
+                "Lift": "Game Creek Express #7",
+                "Time": "1:06 PM"
+            },
+            {
+                "EventId": 779639950,
+                "LocationId": 0,
+                "Lift": "Game Creek Express #7",
+                "Time": "1:20 PM"
+            },
+            {
+                "EventId": 779690718,
+                "LocationId": 0,
+                "Lift": "Mountain Top Express #4",
+                "Time": "1:35 PM"
+            },
+            {
+                "EventId": 779902733,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "2:44 PM"
+            },
+            {
+                "EventId": 779945098,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "3:00 PM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 86270738,
+        "ResortName": "Vail",
+        "Day": "2/23/2020",
+        "VerticalFeet": 4521,
+        "Runs": 10,
+        "LiftRides": [
+            {
+                "EventId": 780245259,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "9:19 AM"
+            },
+            {
+                "EventId": 780331057,
+                "LocationId": 0,
+                "Lift": "Wildwood Express #3",
+                "Time": "9:56 AM"
+            },
+            {
+                "EventId": 780391838,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "10:17 AM"
+            },
+            {
+                "EventId": 780558767,
+                "LocationId": 0,
+                "Lift": "One",
+                "Time": "11:09 AM"
+            },
+            {
+                "EventId": 780751770,
+                "LocationId": 0,
+                "Lift": "Mountain Top Express #4",
+                "Time": "12:08 PM"
+            },
+            {
+                "EventId": 780797579,
+                "LocationId": 0,
+                "Lift": "Sun Up Express #9",
+                "Time": "12:23 PM"
+            },
+            {
+                "EventId": 780871146,
+                "LocationId": 0,
+                "Lift": "Northwoods Express #11",
+                "Time": "12:48 PM"
+            },
+            {
+                "EventId": 780969496,
+                "LocationId": 0,
+                "Lift": "Eagle Bahn Gondola #19",
+                "Time": "1:25 PM"
+            },
+            {
+                "EventId": 781167803,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "2:47 PM"
+            },
+            {
+                "EventId": 781204420,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "3:06 PM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 86501709,
+        "ResortName": "Vail",
+        "Day": "2/25/2020",
+        "VerticalFeet": 3967,
+        "Runs": 11,
+        "LiftRides": [
+            {
+                "EventId": 782258713,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "11:11 AM"
+            },
+            {
+                "EventId": 782301512,
+                "LocationId": 0,
+                "Lift": "One",
+                "Time": "11:33 AM"
+            },
+            {
+                "EventId": 782307207,
+                "LocationId": 0,
+                "Lift": "Wildwood Express #3",
+                "Time": "11:36 AM"
+            },
+            {
+                "EventId": 782472906,
+                "LocationId": 0,
+                "Lift": "Mountain Top Express #4",
+                "Time": "1:12 PM"
+            },
+            {
+                "EventId": 782497446,
+                "LocationId": 0,
+                "Lift": "Sun Up Express #9",
+                "Time": "1:28 PM"
+            },
+            {
+                "EventId": 782516191,
+                "LocationId": 0,
+                "Lift": "Orient Express Lift #21",
+                "Time": "1:40 PM"
+            },
+            {
+                "EventId": 782535681,
+                "LocationId": 0,
+                "Lift": "Mongolia Lift #22",
+                "Time": "1:53 PM"
+            },
+            {
+                "EventId": 782575477,
+                "LocationId": 0,
+                "Lift": "Orient Express Lift #21",
+                "Time": "2:20 PM"
+            },
+            {
+                "EventId": 782605371,
+                "LocationId": 0,
+                "Lift": "Orient Express Lift #21",
+                "Time": "2:40 PM"
+            },
+            {
+                "EventId": 782684264,
+                "LocationId": 0,
+                "Lift": "One",
+                "Time": "3:57 PM"
+            },
+            {
+                "EventId": 782686583,
+                "LocationId": 0,
+                "Lift": "Wildwood Express #3",
+                "Time": "4:02 PM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 86666926,
+        "ResortName": "Vail",
+        "Day": "2/27/2020",
+        "VerticalFeet": 3283,
+        "Runs": 7,
+        "LiftRides": [
+            {
+                "EventId": 783757284,
+                "LocationId": 0,
+                "Lift": "Born Free Express #8",
+                "Time": "11:46 AM"
+            },
+            {
+                "EventId": 783784622,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "11:58 AM"
+            },
+            {
+                "EventId": 783872146,
+                "LocationId": 0,
+                "Lift": "Born Free Express #8",
+                "Time": "12:40 PM"
+            },
+            {
+                "EventId": 784043074,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "2:09 PM"
+            },
+            {
+                "EventId": 784074566,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "2:27 PM"
+            },
+            {
+                "EventId": 784106551,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "2:45 PM"
+            },
+            {
+                "EventId": 784132256,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "3:01 PM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 86737736,
+        "ResortName": "Vail",
+        "Day": "2/28/2020",
+        "VerticalFeet": 2195,
+        "Runs": 6,
+        "LiftRides": [
+            {
+                "EventId": 784394003,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "10:09 AM"
+            },
+            {
+                "EventId": 784484246,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "10:43 AM"
+            },
+            {
+                "EventId": 784513670,
+                "LocationId": 0,
+                "Lift": "Highline Express #10",
+                "Time": "10:53 AM"
+            },
+            {
+                "EventId": 784548877,
+                "LocationId": 0,
+                "Lift": "Sourdough Express #14",
+                "Time": "11:05 AM"
+            },
+            {
+                "EventId": 784609658,
+                "LocationId": 0,
+                "Lift": "Orient Express Lift #21",
+                "Time": "11:25 AM"
+            },
+            {
+                "EventId": 784657292,
+                "LocationId": 0,
+                "Lift": "Mongolia Lift #22",
+                "Time": "11:41 AM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 86949560,
+        "ResortName": "Vail",
+        "Day": "2/29/2020",
+        "VerticalFeet": 89,
+        "Runs": 2,
+        "LiftRides": [
+            {
+                "EventId": 786300703,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "1:26 PM"
+            },
+            {
+                "EventId": 786332019,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "1:36 PM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 87031658,
+        "ResortName": "Vail",
+        "Day": "3/1/2020",
+        "VerticalFeet": 312,
+        "Runs": 7,
+        "LiftRides": [
+            {
+                "EventId": 787004871,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "10:16 AM"
+            },
+            {
+                "EventId": 787044580,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "10:28 AM"
+            },
+            {
+                "EventId": 787111732,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "10:49 AM"
+            },
+            {
+                "EventId": 787144362,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "10:59 AM"
+            },
+            {
+                "EventId": 787170073,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "11:07 AM"
+            },
+            {
+                "EventId": 787207464,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "11:18 AM"
+            },
+            {
+                "EventId": 787234295,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "11:26 AM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 87141750,
+        "ResortName": "Vail",
+        "Day": "3/2/2020",
+        "VerticalFeet": 5634,
+        "Runs": 12,
+        "LiftRides": [
+            {
+                "EventId": 788112109,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "10:33 AM"
+            },
+            {
+                "EventId": 788142423,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "10:47 AM"
+            },
+            {
+                "EventId": 788163196,
+                "LocationId": 0,
+                "Lift": "Highline Express #10",
+                "Time": "10:55 AM"
+            },
+            {
+                "EventId": 788183491,
+                "LocationId": 0,
+                "Lift": "Sourdough Express #14",
+                "Time": "11:04 AM"
+            },
+            {
+                "EventId": 788214868,
+                "LocationId": 0,
+                "Lift": "SkyLine Express #37",
+                "Time": "11:18 AM"
+            },
+            {
+                "EventId": 788261865,
+                "LocationId": 0,
+                "Lift": "Pete's Express #39",
+                "Time": "11:39 AM"
+            },
+            {
+                "EventId": 788321142,
+                "LocationId": 0,
+                "Lift": "SkyLine Express #37",
+                "Time": "12:07 PM"
+            },
+            {
+                "EventId": 788369403,
+                "LocationId": 0,
+                "Lift": "Pete's Express #39",
+                "Time": "12:32 PM"
+            },
+            {
+                "EventId": 788431263,
+                "LocationId": 0,
+                "Lift": "Tea Cup Express #36",
+                "Time": "1:07 PM"
+            },
+            {
+                "EventId": 788468541,
+                "LocationId": 0,
+                "Lift": "High Noon Express #5",
+                "Time": "1:28 PM"
+            },
+            {
+                "EventId": 788621005,
+                "LocationId": 0,
+                "Lift": "Mountain Top Express #4",
+                "Time": "3:03 PM"
+            },
+            {
+                "EventId": 788663244,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "3:41 PM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 87271260,
+        "ResortName": "Vail",
+        "Day": "3/4/2020",
+        "VerticalFeet": 3894,
+        "Runs": 10,
+        "LiftRides": [
+            {
+                "EventId": 789472669,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "9:53 AM"
+            },
+            {
+                "EventId": 789485431,
+                "LocationId": 0,
+                "Lift": "Highline Express #10",
+                "Time": "10:01 AM"
+            },
+            {
+                "EventId": 789501363,
+                "LocationId": 0,
+                "Lift": "Sourdough Express #14",
+                "Time": "10:11 AM"
+            },
+            {
+                "EventId": 789519415,
+                "LocationId": 0,
+                "Lift": "Orient Express Lift #21",
+                "Time": "10:21 AM"
+            },
+            {
+                "EventId": 789541527,
+                "LocationId": 0,
+                "Lift": "Mongolia Lift #22",
+                "Time": "10:33 AM"
+            },
+            {
+                "EventId": 789880503,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "1:38 PM"
+            },
+            {
+                "EventId": 789903741,
+                "LocationId": 0,
+                "Lift": "Northwoods Express #11",
+                "Time": "1:52 PM"
+            },
+            {
+                "EventId": 789935604,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "2:12 PM"
+            },
+            {
+                "EventId": 790010419,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "3:03 PM"
+            },
+            {
+                "EventId": 790026982,
+                "LocationId": 0,
+                "Lift": "Mountain Top Express #4",
+                "Time": "3:17 PM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 87544904,
+        "ResortName": "Vail",
+        "Day": "3/7/2020",
+        "VerticalFeet": 8196,
+        "Runs": 18,
+        "LiftRides": [
+            {
+                "EventId": 792005026,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "9:33 AM"
+            },
+            {
+                "EventId": 792069641,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "9:56 AM"
+            },
+            {
+                "EventId": 792104961,
+                "LocationId": 0,
+                "Lift": "Northwoods Express #11",
+                "Time": "10:08 AM"
+            },
+            {
+                "EventId": 792148748,
+                "LocationId": 0,
+                "Lift": "Northwoods Express #11",
+                "Time": "10:22 AM"
+            },
+            {
+                "EventId": 792202560,
+                "LocationId": 0,
+                "Lift": "Wildwood Express #3",
+                "Time": "10:38 AM"
+            },
+            {
+                "EventId": 792272991,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "10:57 AM"
+            },
+            {
+                "EventId": 792335051,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "11:15 AM"
+            },
+            {
+                "EventId": 792455402,
+                "LocationId": 0,
+                "Lift": "One",
+                "Time": "11:49 AM"
+            },
+            {
+                "EventId": 792605064,
+                "LocationId": 0,
+                "Lift": "Mountain Top Express #4",
+                "Time": "12:34 PM"
+            },
+            {
+                "EventId": 792644206,
+                "LocationId": 0,
+                "Lift": "Sun Up Express #9",
+                "Time": "12:45 PM"
+            },
+            {
+                "EventId": 792688067,
+                "LocationId": 0,
+                "Lift": "SkyLine Express #37",
+                "Time": "1:00 PM"
+            },
+            {
+                "EventId": 792734818,
+                "LocationId": 0,
+                "Lift": "Earl's Express #38",
+                "Time": "1:15 PM"
+            },
+            {
+                "EventId": 792793140,
+                "LocationId": 0,
+                "Lift": "Tea Cup Express #36",
+                "Time": "1:35 PM"
+            },
+            {
+                "EventId": 792857182,
+                "LocationId": 0,
+                "Lift": "Orient Express Lift #21",
+                "Time": "1:58 PM"
+            },
+            {
+                "EventId": 792926297,
+                "LocationId": 0,
+                "Lift": "Tea Cup Express #36",
+                "Time": "2:24 PM"
+            },
+            {
+                "EventId": 792972341,
+                "LocationId": 0,
+                "Lift": "Northwoods Express #11",
+                "Time": "2:42 PM"
+            },
+            {
+                "EventId": 793021289,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "3:04 PM"
+            },
+            {
+                "EventId": 793078459,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "3:33 PM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 87668570,
+        "ResortName": "Vail",
+        "Day": "3/8/2020",
+        "VerticalFeet": 9397,
+        "Runs": 20,
+        "LiftRides": [
+            {
+                "EventId": 793268981,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "9:31 AM"
+            },
+            {
+                "EventId": 793308766,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "9:51 AM"
+            },
+            {
+                "EventId": 793335966,
+                "LocationId": 0,
+                "Lift": "Northwoods Express #11",
+                "Time": "10:03 AM"
+            },
+            {
+                "EventId": 793368213,
+                "LocationId": 0,
+                "Lift": "Northwoods Express #11",
+                "Time": "10:15 AM"
+            },
+            {
+                "EventId": 793410594,
+                "LocationId": 0,
+                "Lift": "Northwoods Express #11",
+                "Time": "10:31 AM"
+            },
+            {
+                "EventId": 793455315,
+                "LocationId": 0,
+                "Lift": "Wildwood Express #3",
+                "Time": "10:47 AM"
+            },
+            {
+                "EventId": 793550579,
+                "LocationId": 0,
+                "Lift": "One",
+                "Time": "11:19 AM"
+            },
+            {
+                "EventId": 793619993,
+                "LocationId": 0,
+                "Lift": "One",
+                "Time": "11:42 AM"
+            },
+            {
+                "EventId": 793748620,
+                "LocationId": 0,
+                "Lift": "Mountain Top Express #4",
+                "Time": "12:25 PM"
+            },
+            {
+                "EventId": 793776212,
+                "LocationId": 0,
+                "Lift": "Sun Up Express #9",
+                "Time": "12:35 PM"
+            },
+            {
+                "EventId": 793812753,
+                "LocationId": 0,
+                "Lift": "SkyLine Express #37",
+                "Time": "12:47 PM"
+            },
+            {
+                "EventId": 793853654,
+                "LocationId": 0,
+                "Lift": "Earl's Express #38",
+                "Time": "1:02 PM"
+            },
+            {
+                "EventId": 793890519,
+                "LocationId": 0,
+                "Lift": "Pete's Express #39",
+                "Time": "1:16 PM"
+            },
+            {
+                "EventId": 793928997,
+                "LocationId": 0,
+                "Lift": "Pete's Express #39",
+                "Time": "1:30 PM"
+            },
+            {
+                "EventId": 793977538,
+                "LocationId": 0,
+                "Lift": "Tea Cup Express #36",
+                "Time": "1:49 PM"
+            },
+            {
+                "EventId": 794023199,
+                "LocationId": 0,
+                "Lift": "Northwoods Express #11",
+                "Time": "2:07 PM"
+            },
+            {
+                "EventId": 794094004,
+                "LocationId": 0,
+                "Lift": "One",
+                "Time": "2:38 PM"
+            },
+            {
+                "EventId": 794109282,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "2:45 PM"
+            },
+            {
+                "EventId": 794135867,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "2:57 PM"
+            },
+            {
+                "EventId": 794176615,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "3:19 PM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 87779534,
+        "ResortName": "Vail",
+        "Day": "3/9/2020",
+        "VerticalFeet": 7855,
+        "Runs": 17,
+        "LiftRides": [
+            {
+                "EventId": 794330323,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "9:32 AM"
+            },
+            {
+                "EventId": 794356577,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "9:50 AM"
+            },
+            {
+                "EventId": 794374686,
+                "LocationId": 0,
+                "Lift": "Northwoods Express #11",
+                "Time": "10:01 AM"
+            },
+            {
+                "EventId": 794400290,
+                "LocationId": 0,
+                "Lift": "Northwoods Express #11",
+                "Time": "10:15 AM"
+            },
+            {
+                "EventId": 794430824,
+                "LocationId": 0,
+                "Lift": "Wildwood Express #3",
+                "Time": "10:30 AM"
+            },
+            {
+                "EventId": 794463860,
+                "LocationId": 0,
+                "Lift": "Game Creek Express #7",
+                "Time": "10:46 AM"
+            },
+            {
+                "EventId": 794504101,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "11:03 AM"
+            },
+            {
+                "EventId": 794561412,
+                "LocationId": 0,
+                "Lift": "Eagle Bahn Gondola #19",
+                "Time": "11:28 AM"
+            },
+            {
+                "EventId": 794730349,
+                "LocationId": 0,
+                "Lift": "Eagle Bahn Gondola #19",
+                "Time": "12:46 PM"
+            },
+            {
+                "EventId": 794772245,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "1:07 PM"
+            },
+            {
+                "EventId": 794800411,
+                "LocationId": 0,
+                "Lift": "Mountain Top Express #4",
+                "Time": "1:22 PM"
+            },
+            {
+                "EventId": 794822082,
+                "LocationId": 0,
+                "Lift": "Sun Up Express #9",
+                "Time": "1:33 PM"
+            },
+            {
+                "EventId": 794843894,
+                "LocationId": 0,
+                "Lift": "SkyLine Express #37",
+                "Time": "1:44 PM"
+            },
+            {
+                "EventId": 794883648,
+                "LocationId": 0,
+                "Lift": "Earl's Express #38",
+                "Time": "2:04 PM"
+            },
+            {
+                "EventId": 794922955,
+                "LocationId": 0,
+                "Lift": "Pete's Express #39",
+                "Time": "2:24 PM"
+            },
+            {
+                "EventId": 794953953,
+                "LocationId": 0,
+                "Lift": "Tea Cup Express #36",
+                "Time": "2:41 PM"
+            },
+            {
+                "EventId": 794983929,
+                "LocationId": 0,
+                "Lift": "Northwoods Express #11",
+                "Time": "2:57 PM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 87863302,
+        "ResortName": "Vail",
+        "Day": "3/10/2020",
+        "VerticalFeet": 9679,
+        "Runs": 25,
+        "LiftRides": [
+            {
+                "EventId": 795138024,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "9:34 AM"
+            },
+            {
+                "EventId": 795153918,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "9:48 AM"
+            },
+            {
+                "EventId": 795166002,
+                "LocationId": 0,
+                "Lift": "Highline Express #10",
+                "Time": "9:57 AM"
+            },
+            {
+                "EventId": 795180001,
+                "LocationId": 0,
+                "Lift": "Sourdough Express #14",
+                "Time": "10:07 AM"
+            },
+            {
+                "EventId": 795201002,
+                "LocationId": 0,
+                "Lift": "SkyLine Express #37",
+                "Time": "10:20 AM"
+            },
+            {
+                "EventId": 795231229,
+                "LocationId": 0,
+                "Lift": "Earl's Express #38",
+                "Time": "10:37 AM"
+            },
+            {
+                "EventId": 795249551,
+                "LocationId": 0,
+                "Lift": "SkyLine Express #37",
+                "Time": "10:47 AM"
+            },
+            {
+                "EventId": 795280911,
+                "LocationId": 0,
+                "Lift": "Pete's Express #39",
+                "Time": "11:02 AM"
+            },
+            {
+                "EventId": 795310617,
+                "LocationId": 0,
+                "Lift": "Orient Express Lift #21",
+                "Time": "11:17 AM"
+            },
+            {
+                "EventId": 795336118,
+                "LocationId": 0,
+                "Lift": "Mongolia Lift #22",
+                "Time": "11:30 AM"
+            },
+            {
+                "EventId": 795361523,
+                "LocationId": 0,
+                "Lift": "Orient Express Lift #21",
+                "Time": "11:42 AM"
+            },
+            {
+                "EventId": 795405579,
+                "LocationId": 0,
+                "Lift": "Tea Cup Express #36",
+                "Time": "12:05 PM"
+            },
+            {
+                "EventId": 795426081,
+                "LocationId": 0,
+                "Lift": "Sun Up Express #9",
+                "Time": "12:17 PM"
+            },
+            {
+                "EventId": 795445253,
+                "LocationId": 0,
+                "Lift": "High Noon Express #5",
+                "Time": "12:27 PM"
+            },
+            {
+                "EventId": 795537724,
+                "LocationId": 0,
+                "Lift": "Mountain Top Express #4",
+                "Time": "1:21 PM"
+            },
+            {
+                "EventId": 795558882,
+                "LocationId": 0,
+                "Lift": "Northwoods Express #11",
+                "Time": "1:33 PM"
+            },
+            {
+                "EventId": 795607382,
+                "LocationId": 0,
+                "Lift": "One",
+                "Time": "2:02 PM"
+            },
+            {
+                "EventId": 795611251,
+                "LocationId": 0,
+                "Lift": "Wildwood Express #3",
+                "Time": "2:04 PM"
+            },
+            {
+                "EventId": 795625494,
+                "LocationId": 0,
+                "Lift": "Game Creek Express #7",
+                "Time": "2:12 PM"
+            },
+            {
+                "EventId": 795646943,
+                "LocationId": 0,
+                "Lift": "Black Forest #27",
+                "Time": "2:25 PM"
+            },
+            {
+                "EventId": 795649822,
+                "LocationId": 0,
+                "Lift": "Avanti Express Lift #2",
+                "Time": "2:27 PM"
+            },
+            {
+                "EventId": 795680153,
+                "LocationId": 0,
+                "Lift": "Little Eagle #15",
+                "Time": "2:46 PM"
+            },
+            {
+                "EventId": 795700535,
+                "LocationId": 0,
+                "Lift": "Born Free Express #8",
+                "Time": "3:00 PM"
+            },
+            {
+                "EventId": 795713752,
+                "LocationId": 0,
+                "Lift": "Pride Express Lift #26",
+                "Time": "3:10 PM"
+            },
+            {
+                "EventId": 795733362,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "3:25 PM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 87972366,
+        "ResortName": "Vail",
+        "Day": "3/11/2020",
+        "VerticalFeet": 4546,
+        "Runs": 12,
+        "LiftRides": [
+            {
+                "EventId": 795997884,
+                "LocationId": 0,
+                "Lift": "Gopher Hill #12",
+                "Time": "11:08 AM"
+            },
+            {
+                "EventId": 796034464,
+                "LocationId": 0,
+                "Lift": "One",
+                "Time": "11:25 AM"
+            },
+            {
+                "EventId": 796047918,
+                "LocationId": 0,
+                "Lift": "Mountain Top Express #4",
+                "Time": "11:32 AM"
+            },
+            {
+                "EventId": 796080973,
+                "LocationId": 0,
+                "Lift": "Sun Up Express #9",
+                "Time": "11:48 AM"
+            },
+            {
+                "EventId": 796096026,
+                "LocationId": 0,
+                "Lift": "Sourdough Express #14",
+                "Time": "11:55 AM"
+            },
+            {
+                "EventId": 796143343,
+                "LocationId": 0,
+                "Lift": "SkyLine Express #37",
+                "Time": "12:19 PM"
+            },
+            {
+                "EventId": 796191014,
+                "LocationId": 0,
+                "Lift": "Earl's Express #38",
+                "Time": "12:44 PM"
+            },
+            {
+                "EventId": 796224864,
+                "LocationId": 0,
+                "Lift": "Tea Cup Express #36",
+                "Time": "1:03 PM"
+            },
+            {
+                "EventId": 796254332,
+                "LocationId": 0,
+                "Lift": "Sourdough Express #14",
+                "Time": "1:20 PM"
+            },
+            {
+                "EventId": 796375384,
+                "LocationId": 0,
+                "Lift": "Northwoods Express #11",
+                "Time": "2:31 PM"
+            },
+            {
+                "EventId": 796419263,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "2:59 PM"
+            },
+            {
+                "EventId": 796435859,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "3:11 PM"
+            }
+        ]
+    },
+    {
+        "ResortDayStatId": 88059314,
+        "ResortName": "Vail",
+        "Day": "3/12/2020",
+        "VerticalFeet": 2366,
+        "Runs": 5,
+        "LiftRides": [
+            {
+                "EventId": 796846960,
+                "LocationId": 0,
+                "Lift": "Riva Bahn Express #6",
+                "Time": "12:19 PM"
+            },
+            {
+                "EventId": 796869633,
+                "LocationId": 0,
+                "Lift": "Northwoods Express #11",
+                "Time": "12:32 PM"
+            },
+            {
+                "EventId": 796895219,
+                "LocationId": 0,
+                "Lift": "Sun Up Express #9",
+                "Time": "12:46 PM"
+            },
+            {
+                "EventId": 796923163,
+                "LocationId": 0,
+                "Lift": "SkyLine Express #37",
+                "Time": "1:01 PM"
+            },
+            {
+                "EventId": 797126892,
+                "LocationId": 0,
+                "Lift": "Tea Cup Express #36",
+                "Time": "2:59 PM"
+            }
+        ]
+    }
+]

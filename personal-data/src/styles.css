@@ -1,0 +1,26 @@
+body {
+  font-family: sans-serif;
+}
+
+#app {
+  position: relative;
+}
+
+#app img {
+  position: relative;
+}
+
+#app .circle {
+  position: absolute;
+  top: 60px;
+  left: 60px;
+  width: 30px;
+  height: 30px;
+  z-index: 2;
+  border-radius: 50%;
+  background-color: blueviolet;
+}
+
+.center {text-align: center;}
+.right {text-align: right;}
+

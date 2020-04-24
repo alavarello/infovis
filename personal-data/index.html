@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Parcel Sandbox</title>
+  <meta charset="UTF-8" />
+  <link rel="stylesheet" type="text/css" href="src/styles.css">
+  <script
+  src="https://code.jquery.com/jquery-3.5.0.slim.min.js"
+  integrity="sha256-MlusDLJIP1GRgLrOflUQtshyP0TwT/RHXsI1wWGnQhs="
+  crossorigin="anonymous"></script>
+  <!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+  <!-- Optional theme -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+  <!-- Latest compiled and minified JavaScript -->
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+ <script src="https://cdn.jsdelivr.net/npm/vega@5.10.1"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@4.11.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.6.0"></script>
+</head>
+
+<body>
+  <div id="app" style="margin: 5%">
+
+
+
+    <div align="center" class="row">
+      <h1>My Ski Seasons</h1>
+    </div>
+
+    <hr>
+
+    <div class="row">
+      <div align="center" class="col-md-8">
+        <h3>Accumulated vertical meters per day</h3>
+        <div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/2050957" data-url="https://flo.uri.sh/visualisation/2050957/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+      </div>
+      <div class="col-md-4">
+        <div align="center">
+         <h3>Some facts</h3> 
+       </div>
+       <hr>
+       <h4>Season 19/20</h4>
+       <ul class="list-group list-group-flush">
+         <li class="list-group-item d-flex justify-content-between align-items-center">
+          Vertical Meters:      
+          <button align="right" type="button" class="btn btn-primary" disabled>258.236</button>
+        </li>
+        <li class="list-group-item d-flex justify-content-between align-items-center">
+          Ski Days
+          <button align="right" type="button" class="btn btn-primary" disabled>70</button>
+          <span style="margin: 0% 5% ;border-left:1px solid grey;height:100%"></span>
+          Chairlifts
+          <button align="right" type="button" class="btn btn-primary" disabled>742</button>
+        </li>
+      </ul>
+      <h4>Season 18/19</h4>
+      <ul class="list-group list-group-flush">
+       <li class="list-group-item d-flex justify-content-between align-items-center">
+        Vertical Meters:      
+        <button align="right" type="button" class="btn btn-warning" disabled>194.367</button>
+
+      </li>
+      <li class="list-group-item d-flex justify-content-between align-items-center">
+        Ski Days
+        <button align="right" type="button" class="btn btn-warning" disabled>59</button>
+        <span style="margin: 0% 5% ;border-left:1px solid grey;height:100%"></span>
+        Chairlifts
+        <button align="right" type="button" class="btn btn-warning" disabled>607</button>
+      </li>
+    </ul>
+    <h4>Season 17/18</h4>
+    <ul class="list-group list-group-flush">
+     <li class="list-group-item d-flex justify-content-between align-items-center">
+      Vertical Meters:      
+      <button align="right" type="button" class="btn btn-success" disabled>160.177</button>
+
+    </li>
+    <li class="list-group-item d-flex justify-content-between align-items-center">
+      Ski Days
+      <button align="right" type="button" class="btn btn-success" disabled>61</button>
+      <span style="margin: 0% 5% ;border-left:1px solid grey;height:100%"></span>
+      Chairlifts
+      <button align="right" type="button" class="btn btn-success" disabled>564</button>
+    </li>
+
+  </li>
+</ul>
+</div>
+</div>
+
+<hr>
+<div class="row" style="max-height: 1000px">
+  <div class="col-md-8">
+   <div align="center">
+     <h3>Rides per charilifts</h3> 
+   </div>
+   <hr>
+   <div class='tableauPlaceholder' id='viz1587690824243' style='position: relative;'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;pe&#47;personaldata_15876895843980&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='personaldata_15876895843980&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;pe&#47;personaldata_15876895843980&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1587690824243');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+ </div>
+ <div class="col-md-4">
+  <div align="center">
+   <h3>Some facts for all seasons</h3> 
+ </div>
+ <hr>
+ <h4>Front Side</h4>
+ <ul class="list-group list-group-flush">
+   <li class="list-group-item d-flex justify-content-between align-items-center">
+    Total rides:      
+    <button align="right" type="button" class="btn btn-danger" disabled>988</button>
+  </li>
+  <li class="list-group-item d-flex justify-content-between align-items-center">
+    Avg rides per chairlifts
+    <button align="right" type="button" class="btn btn-danger" disabled>70.5</button>
+    <span style="margin: 0% 5% ;border-left:1px solid grey;height:100%"></span>
+    Amount
+    <button align="right" type="button" class="btn btn-danger" disabled>14</button>
+  </li>
+</ul>
+<h4>Back Bowls</h4>
+<ul class="list-group list-group-flush">
+ <li class="list-group-item d-flex justify-content-between align-items-center">
+  Total rides:      
+  <button align="right" type="button" class="btn btn-primary" disabled>115</button>
+
+</li>
+<li class="list-group-item d-flex justify-content-between align-items-center">
+  Avg rides per chairlifts
+  <button align="right" type="button" class="btn btn-primary" disabled>23</button>
+  <span style="margin: 0% 5% ;border-left:1px solid grey;height:100%"></span>
+  Amount
+  <button align="right" type="button" class="btn btn-primary" disabled>5</button>
+</li>
+</ul>
+<h4>Blue Sky Basin</h4>
+<ul class="list-group list-group-flush">
+ <li class="list-group-item d-flex justify-content-between align-items-center">
+  Total rides:      
+  <button align="right" type="button" class="btn btn-warning" disabled>49</button>
+
+</li>
+<li class="list-group-item d-flex justify-content-between align-items-center">
+  Avg rides per chairlifts
+  <button align="right" type="button" class="btn btn-warning" disabled>16.3</button>
+  <span style="margin: 0% 5% ;border-left:1px solid grey;height:100%"></span>
+  Amount
+  <button align="right" type="button" class="btn btn-warning" disabled>5</button>
+</li>
+</li>
+</ul>
+</div>
+</div>
+<div class="row" align="center" style="margin-top: 3%">
+  
+  <h3>Vertical meters in other resorts</h3>
+  <div id="vis"></div>
+</div>
+</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tippy.js/6.2.0/tippy.umd.min.js"></script>
+<script src="src/index.js"></script>
+<script>
+      // Assign the specification to a local variable vlSpec.
+      var vlSpec = {
+        "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+        "description": "Vega-Lite version of bar chart from https://observablehq.com/@d3/learn-d3-scales.",
+        "width": 400,
+        "data": {
+          "values": [
+          {"name": "Breck", "amount": 8178, "color": "#265a88"},
+          {"name": "Keystone", "amount": 10307, "color": "#419641"}, 
+          {"name":"Beaver Creek", "amount": 17410, "color": "#eb9316"}
+          ]
+        },
+        "encoding": {
+          "x": {"field": "name", "type": "ordinal", "title": "Other Mountains"},
+          "y": {"field": "amount", "type": "quantitative", "title": "Vertical Feets"},
+          "color": {
+            "field": "color",
+            "type": "nominal",
+            "scale": null
+          }
+        },
+        "layer": [{
+          "mark": "bar"
+        }, {
+          "mark": {
+            "type": "text",
+            "align": "center",
+            "baseline": "bottom"
+          },
+          "encoding": {
+            "text": {"field": "amount", "type": "quantitative"},
+            "color": {
+              "value": "black"
+            }
+          }
+        }]
+      };
+
+
+      // Embed the visualization in the container with id `vis`
+      vegaEmbed('#vis', vlSpec);
+    </script>
+  </body>
+  </html>
