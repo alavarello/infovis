@@ -8,17 +8,18 @@
   src="https://code.jquery.com/jquery-3.5.0.slim.min.js"
   integrity="sha256-MlusDLJIP1GRgLrOflUQtshyP0TwT/RHXsI1wWGnQhs="
   crossorigin="anonymous"></script>
-  <!-- Latest compiled and minified CSS -->
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-
-  <!-- Optional theme -->
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
-
-  <!-- Latest compiled and minified JavaScript -->
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
- <script src="https://cdn.jsdelivr.net/npm/vega@5.10.1"></script>
-    <script src="https://cdn.jsdelivr.net/npm/vega-lite@4.11.0"></script>
-    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.6.0"></script>
+  <!-- Bootstrap -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+  <!-- Vega lita -->
+  <script src="https://cdn.jsdelivr.net/npm/vega@5.10.1"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@4.11.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.6.0"></script>
+  <!-- Load d3.js -->
+  <script src="https://d3js.org/d3.v4.js"></script>
+  <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
 </head>
 
 <body>
@@ -153,56 +154,40 @@
 </ul>
 </div>
 </div>
-<div class="row" align="center" style="margin-top: 3%">
-  
-  <h3>Vertical meters in other resorts</h3>
-  <div id="vis"></div>
+<hr>
+<div class="row" style="margin-top: 3%">
+  <div class="col-md-6" align="center">
+    <h3>Vertical meters in other resorts</h3>
+    <div style="margin-top: 3%" id="vis"></div>
+  </div>
+  <div class="col-md-6 align-middle" align="center">
+    <h3>Percentage of vertical meters per week days</h3>
+    <!-- Add 2 buttons -->
+    <button class="btn btn-outline-danger" onclick="buttonClick(all_seasons)">All Seasons</button>
+    <button class="btn btn-outline-primary" onclick="buttonClick(season_19_20)">Season 19/20</button>
+    <button class="btn btn-outline-warning" onclick="buttonClick(season_18_19)">Season 18/19</button>
+    <button class="btn btn-outline-success" onclick="buttonClick(season_17_18)">Season 17/18</button>
+    <div class="row">
+      <div class="col-md-10">    
+        <div id="my_dataviz" ></div>  
+      </div>
+      <div class="col-md-2">    
+      <div style="margin-top: 30%">
+      <h5 style="color: #1b9e77">Monday</h5>
+      <h5 style="color: #d95f02">Tuesday</h5>
+      <h5 style="color: #7570b3">Wednesday</h5>
+      <h5 style="color: #e7298a">Thursday</h5>
+      <h5 style="color: #66a61e">Friday</h5>
+      <h5 style="color: #e6ab02">Saturday</h5>
+      <h5 style="color: #a6761d">Sunday</h5>
+    </div>
+      </div>
+    </div>
+    <!-- Create a div where the graph will take place -->
+  </div>
 </div>
 </div>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/tippy.js/6.2.0/tippy.umd.min.js"></script>
-<script src="src/index.js"></script>
-<script>
-      // Assign the specification to a local variable vlSpec.
-      var vlSpec = {
-        "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-        "description": "Vega-Lite version of bar chart from https://observablehq.com/@d3/learn-d3-scales.",
-        "width": 400,
-        "data": {
-          "values": [
-          {"name": "Breckenridge", "amount": 8178, "color": "#265a88"},
-          {"name": "Keystone", "amount": 10307, "color": "#419641"}, 
-          {"name":"Beaver Creek", "amount": 17410, "color": "#eb9316"}
-          ]
-        },
-        "encoding": {
-          "x": {"field": "name", "type": "nominal", "title": "Other Mountains"},
-          "y": {"field": "amount", "type": "quantitative", "title": "Vertical Meters"},
-          "color": {
-            "field": "color",
-            "type": "nominal",
-            "scale": null
-          }
-        },
-        "layer": [{
-          "mark": "bar"
-        }, {
-          "mark": {
-            "type": "text",
-            "align": "center",
-            "baseline": "bottom"
-          },
-          "encoding": {
-            "text": {"field": "amount", "type": "quantitative"},
-            "color": {
-              "value": "black"
-            }
-          }
-        }]
-      };
-
-
-      // Embed the visualization in the container with id `vis`
-      vegaEmbed('#vis', vlSpec);
-    </script>
-  </body>
-  </html>
+<script src="src/other_resorts.js"></script>
+<script src="src/vm_per_day.js"></script>
+</body>
+</html>

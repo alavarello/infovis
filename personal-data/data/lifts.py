@@ -37,11 +37,9 @@ with open('lift.json','r') as f:
         for lift in lifts:
             season_list.append(lift.get('Lift'))
 
-# Season 19/20
 
 for season_name, value in data.items():
     d = {x:value.count(x) for x in value}
     for chair_name, amount in d.items():
         print(season_name, chair_name, amount, sep=",")
 
-#print(data)
